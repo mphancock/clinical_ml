@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "gene_parser.py", line 26, in <module>
+    with gzip.open(os.path.join(exome_path, file), 'rt') as f:
+  File "/home/hancocmp/.conda/envs/ML/lib/python3.6/posixpath.py", line 92, in join
+    genericpath._check_arg_types('join', a, *p)
+  File "/home/hancocmp/.conda/envs/ML/lib/python3.6/genericpath.py", line 149, in _check_arg_types
+    (funcname, s.__class__.__name__)) from None
+TypeError: join() argument must be str or bytes, not 'NoneType'

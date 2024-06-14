@@ -1,0 +1,2633 @@
+FEATURE,WEIGHT0
+DURATION_BF_BASELINE,0.0015365932413345337
+SMOKING,0.028402816811721788
+MIN_BMI,0.0
+MAX_BMI,0.0
+MEDIAN_BMI,0.0006818188198280938
+MEAN_BMI,0.0
+STD_BMI,0.0
+BMI_MEASURE_COUNTS,0.0
+MIN_SYSTOLIC,0.0
+MAX_SYSTOLIC,0.0
+MEDIAN_SYSTOLIC,0.0
+MEAN_SYSTOLIC,0.0048883384508252165
+STD_SYSTOLIC,0.000990624072749573
+MIN_DIASTOLIC,0.0
+MAX_DIASTOLIC,0.0
+MEDIAN_DIASTOLIC,0.0
+MEAN_DIASTOLIC,0.007237138043775056
+STD_DIASTOLIC,0.0
+SYSTOLIC_MEASURE_COUNTS,0.0
+"('%SAT', 'MAX_VALUE')",0.0
+"('%SAT', 'MEAN_VALUE')",0.0
+"('%SAT', 'MEASURE_COUNTS')",0.0
+"('%SAT', 'MEDIAN_VALUE')",0.0
+"('%SAT', 'MIN_VALUE')",0.0
+"('%SAT', 'STD_VALUE')",0.0
+"('125DHy', 'MAX_VALUE')",0.0
+"('125DHy', 'MEAN_VALUE')",0.0
+"('125DHy', 'MEASURE_COUNTS')",0.0
+"('125DHy', 'MEDIAN_VALUE')",0.0
+"('125DHy', 'MIN_VALUE')",0.0
+"('125DHy', 'STD_VALUE')",0.0
+"('25DTot', 'MAX_VALUE')",0.0
+"('25DTot', 'MEAN_VALUE')",0.0
+"('25DTot', 'MEASURE_COUNTS')",0.0
+"('25DTot', 'MEDIAN_VALUE')",0.0
+"('25DTot', 'MIN_VALUE')",0.0009672150275297521
+"('25DTot', 'STD_VALUE')",0.0
+"('25HyD2', 'MAX_VALUE')",0.0022825482534519254
+"('25HyD2', 'MEAN_VALUE')",0.0
+"('25HyD2', 'MEASURE_COUNTS')",0.0
+"('25HyD2', 'MEDIAN_VALUE')",0.0
+"('25HyD2', 'MIN_VALUE')",0.0
+"('25HyD2', 'STD_VALUE')",0.0006716019940943225
+"('25HyD3', 'MAX_VALUE')",0.0
+"('25HyD3', 'MEAN_VALUE')",0.0
+"('25HyD3', 'MEASURE_COUNTS')",0.0
+"('25HyD3', 'MEDIAN_VALUE')",0.002412700379764387
+"('25HyD3', 'MIN_VALUE')",0.0
+"('25HyD3', 'STD_VALUE')",0.0
+"('A-1Gg/', 'MAX_VALUE')",0.0
+"('A-1Gg/', 'MEAN_VALUE')",0.0
+"('A-1Gg/', 'MEASURE_COUNTS')",0.0
+"('A-1Gg/', 'MEDIAN_VALUE')",0.0
+"('A-1Gg/', 'MIN_VALUE')",0.0
+"('A-1Gg/', 'STD_VALUE')",0.0
+"('A-2Gg/', 'MAX_VALUE')",0.0
+"('A-2Gg/', 'MEAN_VALUE')",0.0
+"('A-2Gg/', 'MEASURE_COUNTS')",0.0
+"('A-2Gg/', 'MEDIAN_VALUE')",0.0
+"('A-2Gg/', 'MIN_VALUE')",0.0
+"('A-2Gg/', 'STD_VALUE')",0.0
+"('AFPTum', 'MAX_VALUE')",0.0
+"('AFPTum', 'MEAN_VALUE')",0.0
+"('AFPTum', 'MEASURE_COUNTS')",0.0
+"('AFPTum', 'MEDIAN_VALUE')",0.0
+"('AFPTum', 'MIN_VALUE')",0.0
+"('AFPTum', 'STD_VALUE')",0.0
+"('AN-GAP', 'MAX_VALUE')",0.0
+"('AN-GAP', 'MEAN_VALUE')",0.0
+"('AN-GAP', 'MEASURE_COUNTS')",0.0
+"('AN-GAP', 'MEDIAN_VALUE')",0.0
+"('AN-GAP', 'MIN_VALUE')",0.0
+"('AN-GAP', 'STD_VALUE')",0.0
+"('AThyP', 'MAX_VALUE')",0.0
+"('AThyP', 'MEAN_VALUE')",0.0
+"('AThyP', 'MEASURE_COUNTS')",0.0
+"('AThyP', 'MEDIAN_VALUE')",0.0
+"('AThyP', 'MIN_VALUE')",0.0
+"('AThyP', 'STD_VALUE')",0.0
+"('Alb', 'MAX_VALUE')",0.0
+"('Alb', 'MEAN_VALUE')",0.0
+"('Alb', 'MEASURE_COUNTS')",0.0
+"('Alb', 'MEDIAN_VALUE')",0.0
+"('Alb', 'MIN_VALUE')",0.0
+"('Alb', 'STD_VALUE')",0.0
+"('AlbCnc', 'MAX_VALUE')",0.0
+"('AlbCnc', 'MEAN_VALUE')",0.0
+"('AlbCnc', 'MEASURE_COUNTS')",0.0
+"('AlbCnc', 'MEDIAN_VALUE')",0.0
+"('AlbCnc', 'MIN_VALUE')",0.0
+"('AlbCnc', 'STD_VALUE')",0.0
+"('AlbCre', 'MAX_VALUE')",0.0
+"('AlbCre', 'MEAN_VALUE')",0.0
+"('AlbCre', 'MEASURE_COUNTS')",0.0
+"('AlbCre', 'MEDIAN_VALUE')",0.0
+"('AlbCre', 'MIN_VALUE')",0.0
+"('AlbCre', 'STD_VALUE')",0.0
+"('Album', 'MAX_VALUE')",0.0
+"('Album', 'MEAN_VALUE')",0.0
+"('Album', 'MEASURE_COUNTS')",0.0
+"('Album', 'MEDIAN_VALUE')",0.0
+"('Album', 'MIN_VALUE')",0.0
+"('Album', 'STD_VALUE')",0.0
+"('AlkP', 'MAX_VALUE')",0.0
+"('AlkP', 'MEAN_VALUE')",0.0016354302120188747
+"('AlkP', 'MEASURE_COUNTS')",0.0
+"('AlkP', 'MEDIAN_VALUE')",0.0
+"('AlkP', 'MIN_VALUE')",0.0
+"('AlkP', 'STD_VALUE')",0.0
+"('Amyl', 'MAX_VALUE')",0.002196603432052468
+"('Amyl', 'MEAN_VALUE')",0.0
+"('Amyl', 'MEASURE_COUNTS')",0.0
+"('Amyl', 'MEDIAN_VALUE')",0.0
+"('Amyl', 'MIN_VALUE')",9.0306317743984e-05
+"('Amyl', 'STD_VALUE')",0.0
+"('AntDNA', 'MAX_VALUE')",0.0
+"('AntDNA', 'MEAN_VALUE')",0.0
+"('AntDNA', 'MEASURE_COUNTS')",0.0
+"('AntDNA', 'MEDIAN_VALUE')",0.0
+"('AntDNA', 'MIN_VALUE')",0.0
+"('AntDNA', 'STD_VALUE')",0.0
+"('AtyLym', 'MAX_VALUE')",0.0007470134398168277
+"('AtyLym', 'MEAN_VALUE')",0.0
+"('AtyLym', 'MEASURE_COUNTS')",0.0
+"('AtyLym', 'MEDIAN_VALUE')",0.0
+"('AtyLym', 'MIN_VALUE')",0.0
+"('AtyLym', 'STD_VALUE')",0.0
+"('BASOA', 'MAX_VALUE')",0.0
+"('BASOA', 'MEAN_VALUE')",0.0
+"('BASOA', 'MEASURE_COUNTS')",0.0
+"('BASOA', 'MEDIAN_VALUE')",0.0
+"('BASOA', 'MIN_VALUE')",0.0
+"('BASOA', 'STD_VALUE')",0.0
+"('BASOAB', 'MAX_VALUE')",0.0
+"('BASOAB', 'MEAN_VALUE')",0.0
+"('BASOAB', 'MEASURE_COUNTS')",0.0
+"('BASOAB', 'MEDIAN_VALUE')",0.0
+"('BASOAB', 'MIN_VALUE')",0.0
+"('BASOAB', 'STD_VALUE')",0.0
+"('BASOM', 'MAX_VALUE')",0.0
+"('BASOM', 'MEAN_VALUE')",0.0
+"('BASOM', 'MEASURE_COUNTS')",0.0
+"('BASOM', 'MEDIAN_VALUE')",0.0
+"('BASOM', 'MIN_VALUE')",0.0
+"('BASOM', 'STD_VALUE')",0.0
+"('BASORE', 'MAX_VALUE')",0.0
+"('BASORE', 'MEAN_VALUE')",0.0
+"('BASORE', 'MEASURE_COUNTS')",0.0
+"('BASORE', 'MEDIAN_VALUE')",0.0
+"('BASORE', 'MIN_VALUE')",0.0
+"('BASORE', 'STD_VALUE')",0.0
+"('BAbs', 'MAX_VALUE')",0.0
+"('BAbs', 'MEAN_VALUE')",0.0
+"('BAbs', 'MEASURE_COUNTS')",0.0
+"('BAbs', 'MEDIAN_VALUE')",0.0
+"('BAbs', 'MIN_VALUE')",0.0
+"('BAbs', 'STD_VALUE')",0.0
+"('BEVN', 'MAX_VALUE')",0.0
+"('BEVN', 'MEAN_VALUE')",0.0
+"('BEVN', 'MEASURE_COUNTS')",0.0
+"('BEVN', 'MEDIAN_VALUE')",0.0
+"('BEVN', 'MIN_VALUE')",0.0
+"('BEVN', 'STD_VALUE')",0.0
+"('BNP', 'MAX_VALUE')",0.0027711393022567437
+"('BNP', 'MEAN_VALUE')",0.002238383376041849
+"('BNP', 'MEASURE_COUNTS')",0.0
+"('BNP', 'MEDIAN_VALUE')",0.0029878400220215867
+"('BNP', 'MIN_VALUE')",0.003741866604217686
+"('BNP', 'STD_VALUE')",0.0
+"('BUN', 'MAX_VALUE')",0.0
+"('BUN', 'MEAN_VALUE')",0.0
+"('BUN', 'MEASURE_COUNTS')",0.0
+"('BUN', 'MEDIAN_VALUE')",0.0
+"('BUN', 'MIN_VALUE')",0.00656224254160448
+"('BUN', 'STD_VALUE')",0.0
+"('Baso', 'MAX_VALUE')",0.0
+"('Baso', 'MEAN_VALUE')",0.0
+"('Baso', 'MEASURE_COUNTS')",0.0
+"('Baso', 'MEDIAN_VALUE')",0.0
+"('Baso', 'MIN_VALUE')",0.0
+"('Baso', 'STD_VALUE')",0.0
+"('BeGlg/', 'MAX_VALUE')",0.0
+"('BeGlg/', 'MEAN_VALUE')",0.0
+"('BeGlg/', 'MEASURE_COUNTS')",0.0
+"('BeGlg/', 'MEDIAN_VALUE')",0.0
+"('BeGlg/', 'MIN_VALUE')",0.0
+"('BeGlg/', 'STD_VALUE')",0.0
+"('C3', 'MAX_VALUE')",0.0
+"('C3', 'MEAN_VALUE')",0.0
+"('C3', 'MEASURE_COUNTS')",0.0
+"('C3', 'MEDIAN_VALUE')",0.0
+"('C3', 'MIN_VALUE')",0.0
+"('C3', 'STD_VALUE')",0.0
+"('C4Quan', 'MAX_VALUE')",0.0
+"('C4Quan', 'MEAN_VALUE')",0.0
+"('C4Quan', 'MEASURE_COUNTS')",0.0
+"('C4Quan', 'MEDIAN_VALUE')",0.0
+"('C4Quan', 'MIN_VALUE')",0.0
+"('C4Quan', 'STD_VALUE')",0.0
+"('CBil', 'MAX_VALUE')",0.0
+"('CBil', 'MEAN_VALUE')",0.0
+"('CBil', 'MEASURE_COUNTS')",0.0
+"('CBil', 'MEDIAN_VALUE')",0.0
+"('CBil', 'MIN_VALUE')",0.0
+"('CBil', 'STD_VALUE')",0.0
+"('CHOL/HDL_RATIO', 'MAX_VALUE')",0.0
+"('CHOL/HDL_RATIO', 'MEAN_VALUE')",0.0
+"('CHOL/HDL_RATIO', 'MEASURE_COUNTS')",0.0
+"('CHOL/HDL_RATIO', 'MEDIAN_VALUE')",0.0
+"('CHOL/HDL_RATIO', 'MIN_VALUE')",0.0
+"('CHOL/HDL_RATIO', 'STD_VALUE')",0.0
+"('CKMBRe', 'MAX_VALUE')",0.0
+"('CKMBRe', 'MEAN_VALUE')",0.0
+"('CKMBRe', 'MEASURE_COUNTS')",0.0
+"('CKMBRe', 'MEDIAN_VALUE')",0.0
+"('CKMBRe', 'MIN_VALUE')",0.003046533762638322
+"('CKMBRe', 'STD_VALUE')",0.0026098431006329912
+"('CO2', 'MAX_VALUE')",0.0
+"('CO2', 'MEAN_VALUE')",0.0
+"('CO2', 'MEASURE_COUNTS')",0.0
+"('CO2', 'MEDIAN_VALUE')",0.0019864439784183533
+"('CO2', 'MIN_VALUE')",0.006348904386053912
+"('CO2', 'STD_VALUE')",0.0
+"('CPK', 'MAX_VALUE')",0.0
+"('CPK', 'MEAN_VALUE')",0.0
+"('CPK', 'MEASURE_COUNTS')",0.009140639585135526
+"('CPK', 'MEDIAN_VALUE')",0.0
+"('CPK', 'MIN_VALUE')",0.0
+"('CPK', 'STD_VALUE')",0.0
+"('CPKTot', 'MAX_VALUE')",0.0
+"('CPKTot', 'MEAN_VALUE')",0.0
+"('CPKTot', 'MEASURE_COUNTS')",0.0
+"('CPKTot', 'MEDIAN_VALUE')",0.0
+"('CPKTot', 'MIN_VALUE')",0.0
+"('CPKTot', 'STD_VALUE')",0.0
+"('CRP', 'MAX_VALUE')",0.0
+"('CRP', 'MEAN_VALUE')",0.0
+"('CRP', 'MEASURE_COUNTS')",0.0
+"('CRP', 'MEDIAN_VALUE')",0.0
+"('CRP', 'MIN_VALUE')",0.0
+"('CRP', 'STD_VALUE')",0.0
+"('Ca', 'MAX_VALUE')",0.0
+"('Ca', 'MEAN_VALUE')",0.0
+"('Ca', 'MEASURE_COUNTS')",0.0
+"('Ca', 'MEDIAN_VALUE')",0.0
+"('Ca', 'MIN_VALUE')",0.0
+"('Ca', 'STD_VALUE')",0.0
+"('CaIo', 'MAX_VALUE')",0.0
+"('CaIo', 'MEAN_VALUE')",0.0
+"('CaIo', 'MEASURE_COUNTS')",0.0
+"('CaIo', 'MEDIAN_VALUE')",0.0
+"('CaIo', 'MIN_VALUE')",0.0
+"('CaIo', 'STD_VALUE')",0.0
+"('Chol', 'MAX_VALUE')",0.0
+"('Chol', 'MEAN_VALUE')",0.0
+"('Chol', 'MEASURE_COUNTS')",0.0
+"('Chol', 'MEDIAN_VALUE')",0.0
+"('Chol', 'MIN_VALUE')",0.0
+"('Chol', 'STD_VALUE')",0.0
+"('Cl', 'MAX_VALUE')",0.0
+"('Cl', 'MEAN_VALUE')",0.0
+"('Cl', 'MEASURE_COUNTS')",0.0
+"('Cl', 'MEDIAN_VALUE')",0.0
+"('Cl', 'MIN_VALUE')",0.0
+"('Cl', 'STD_VALUE')",0.0
+"('ClTime', 'MAX_VALUE')",0.0
+"('ClTime', 'MEAN_VALUE')",0.0
+"('ClTime', 'MEASURE_COUNTS')",0.0
+"('ClTime', 'MEDIAN_VALUE')",0.0
+"('ClTime', 'MIN_VALUE')",0.0
+"('ClTime', 'STD_VALUE')",0.0
+"('Cort-S', 'MAX_VALUE')",0.001905970737399535
+"('Cort-S', 'MEAN_VALUE')",0.0
+"('Cort-S', 'MEASURE_COUNTS')",0.0
+"('Cort-S', 'MEDIAN_VALUE')",0.0
+"('Cort-S', 'MIN_VALUE')",0.0
+"('Cort-S', 'STD_VALUE')",0.0
+"('CrePOC', 'MAX_VALUE')",0.0
+"('CrePOC', 'MEAN_VALUE')",0.0
+"('CrePOC', 'MEASURE_COUNTS')",0.0
+"('CrePOC', 'MEDIAN_VALUE')",0.0
+"('CrePOC', 'MIN_VALUE')",0.0
+"('CrePOC', 'STD_VALUE')",0.0
+"('Creat', 'MAX_VALUE')",0.0
+"('Creat', 'MEAN_VALUE')",0.012202263409176095
+"('Creat', 'MEASURE_COUNTS')",0.0
+"('Creat', 'MEDIAN_VALUE')",0.02009912493598594
+"('Creat', 'MIN_VALUE')",0.0
+"('Creat', 'STD_VALUE')",0.003361285591383149
+"('D25OHT', 'MAX_VALUE')",0.0
+"('D25OHT', 'MEAN_VALUE')",0.0
+"('D25OHT', 'MEASURE_COUNTS')",0.0
+"('D25OHT', 'MEDIAN_VALUE')",0.0
+"('D25OHT', 'MIN_VALUE')",0.0
+"('D25OHT', 'STD_VALUE')",0.0
+"('DirLDL', 'MAX_VALUE')",0.0
+"('DirLDL', 'MEAN_VALUE')",0.0
+"('DirLDL', 'MEASURE_COUNTS')",0.0
+"('DirLDL', 'MEDIAN_VALUE')",0.0
+"('DirLDL', 'MIN_VALUE')",0.0
+"('DirLDL', 'STD_VALUE')",0.0
+"('EOSIA', 'MAX_VALUE')",0.0
+"('EOSIA', 'MEAN_VALUE')",0.0
+"('EOSIA', 'MEASURE_COUNTS')",0.0
+"('EOSIA', 'MEDIAN_VALUE')",0.0
+"('EOSIA', 'MIN_VALUE')",0.0
+"('EOSIA', 'STD_VALUE')",0.0
+"('EOSIAB', 'MAX_VALUE')",0.0
+"('EOSIAB', 'MEAN_VALUE')",0.0
+"('EOSIAB', 'MEASURE_COUNTS')",0.0
+"('EOSIAB', 'MEDIAN_VALUE')",0.0
+"('EOSIAB', 'MIN_VALUE')",0.0
+"('EOSIAB', 'STD_VALUE')",0.0008033719614370478
+"('EOSIM', 'MAX_VALUE')",0.0
+"('EOSIM', 'MEAN_VALUE')",0.0
+"('EOSIM', 'MEASURE_COUNTS')",0.0
+"('EOSIM', 'MEDIAN_VALUE')",0.0
+"('EOSIM', 'MIN_VALUE')",0.0032859684025160056
+"('EOSIM', 'STD_VALUE')",0.0
+"('EOSIRE', 'MAX_VALUE')",0.0
+"('EOSIRE', 'MEAN_VALUE')",0.0
+"('EOSIRE', 'MEASURE_COUNTS')",0.0
+"('EOSIRE', 'MEDIAN_VALUE')",0.001701195176379068
+"('EOSIRE', 'MIN_VALUE')",0.0
+"('EOSIRE', 'STD_VALUE')",0.0
+"('EoAbs', 'MAX_VALUE')",0.0
+"('EoAbs', 'MEAN_VALUE')",1.5727503001074355e-06
+"('EoAbs', 'MEASURE_COUNTS')",0.0
+"('EoAbs', 'MEDIAN_VALUE')",0.0017164627085809474
+"('EoAbs', 'MIN_VALUE')",0.0
+"('EoAbs', 'STD_VALUE')",0.0
+"('Eos', 'MAX_VALUE')",0.0
+"('Eos', 'MEAN_VALUE')",0.0015405242440661119
+"('Eos', 'MEASURE_COUNTS')",0.0
+"('Eos', 'MEDIAN_VALUE')",0.0
+"('Eos', 'MIN_VALUE')",0.0
+"('Eos', 'STD_VALUE')",0.0
+"('Estrdl', 'MAX_VALUE')",0.0
+"('Estrdl', 'MEAN_VALUE')",0.0
+"('Estrdl', 'MEASURE_COUNTS')",0.0
+"('Estrdl', 'MEDIAN_VALUE')",0.0
+"('Estrdl', 'MIN_VALUE')",0.0
+"('Estrdl', 'STD_VALUE')",0.0
+"('FSH1', 'MAX_VALUE')",0.0
+"('FSH1', 'MEAN_VALUE')",0.0
+"('FSH1', 'MEASURE_COUNTS')",0.0
+"('FSH1', 'MEDIAN_VALUE')",0.0
+"('FSH1', 'MIN_VALUE')",0.0
+"('FSH1', 'STD_VALUE')",0.0
+"('FT4', 'MAX_VALUE')",0.0
+"('FT4', 'MEAN_VALUE')",0.0
+"('FT4', 'MEASURE_COUNTS')",0.0
+"('FT4', 'MEDIAN_VALUE')",0.0
+"('FT4', 'MIN_VALUE')",0.0
+"('FT4', 'STD_VALUE')",0.0
+"('Ferrit', 'MAX_VALUE')",0.0
+"('Ferrit', 'MEAN_VALUE')",0.0
+"('Ferrit', 'MEASURE_COUNTS')",0.0
+"('Ferrit', 'MEDIAN_VALUE')",0.0
+"('Ferrit', 'MIN_VALUE')",0.0
+"('Ferrit', 'STD_VALUE')",0.0
+"('GTT50g', 'MAX_VALUE')",0.0
+"('GTT50g', 'MEAN_VALUE')",0.0
+"('GTT50g', 'MEASURE_COUNTS')",0.0
+"('GTT50g', 'MEDIAN_VALUE')",0.0
+"('GTT50g', 'MIN_VALUE')",0.0
+"('GTT50g', 'STD_VALUE')",0.0
+"('GamGg/', 'MAX_VALUE')",0.0
+"('GamGg/', 'MEAN_VALUE')",0.0
+"('GamGg/', 'MEASURE_COUNTS')",0.0
+"('GamGg/', 'MEDIAN_VALUE')",0.0
+"('GamGg/', 'MIN_VALUE')",0.0
+"('GamGg/', 'STD_VALUE')",0.0
+"('GluBed', 'MAX_VALUE')",0.0
+"('GluBed', 'MEAN_VALUE')",0.0
+"('GluBed', 'MEASURE_COUNTS')",0.0
+"('GluBed', 'MEDIAN_VALUE')",0.0
+"('GluBed', 'MIN_VALUE')",5.781057114647695e-10
+"('GluBed', 'STD_VALUE')",0.0
+"('Gluc', 'MAX_VALUE')",0.0
+"('Gluc', 'MEAN_VALUE')",0.0
+"('Gluc', 'MEASURE_COUNTS')",0.0
+"('Gluc', 'MEDIAN_VALUE')",0.0014958782815948605
+"('Gluc', 'MIN_VALUE')",0.0
+"('Gluc', 'STD_VALUE')",0.0
+"('HDL-C', 'MAX_VALUE')",0.0
+"('HDL-C', 'MEAN_VALUE')",0.0
+"('HDL-C', 'MEASURE_COUNTS')",0.0
+"('HDL-C', 'MEDIAN_VALUE')",0.0
+"('HDL-C', 'MIN_VALUE')",0.0
+"('HDL-C', 'STD_VALUE')",0.0
+"('Hgb', 'MAX_VALUE')",0.0012451884063997278
+"('Hgb', 'MEAN_VALUE')",0.0
+"('Hgb', 'MEASURE_COUNTS')",0.0
+"('Hgb', 'MEDIAN_VALUE')",0.0
+"('Hgb', 'MIN_VALUE')",0.0017700056872879595
+"('Hgb', 'STD_VALUE')",0.0
+"('HgbA1C', 'MAX_VALUE')",0.0
+"('HgbA1C', 'MEAN_VALUE')",0.0
+"('HgbA1C', 'MEASURE_COUNTS')",0.0
+"('HgbA1C', 'MEDIAN_VALUE')",0.0
+"('HgbA1C', 'MIN_VALUE')",0.0
+"('HgbA1C', 'STD_VALUE')",0.0
+"('Hm', 'MAX_VALUE')",0.0
+"('Hm', 'MEAN_VALUE')",0.0
+"('Hm', 'MEASURE_COUNTS')",0.0
+"('Hm', 'MEDIAN_VALUE')",0.0026419370724469937
+"('Hm', 'MIN_VALUE')",0.0
+"('Hm', 'STD_VALUE')",0.0
+"('HrColl', 'MAX_VALUE')",0.0
+"('HrColl', 'MEAN_VALUE')",0.0
+"('HrColl', 'MEASURE_COUNTS')",0.0
+"('HrColl', 'MEDIAN_VALUE')",0.0
+"('HrColl', 'MIN_VALUE')",0.0
+"('HrColl', 'STD_VALUE')",0.0
+"('IGAB', 'MAX_VALUE')",0.0
+"('IGAB', 'MEAN_VALUE')",0.0
+"('IGAB', 'MEASURE_COUNTS')",0.0
+"('IGAB', 'MEDIAN_VALUE')",0.0
+"('IGAB', 'MIN_VALUE')",0.0
+"('IGAB', 'STD_VALUE')",0.0
+"('IGRE', 'MAX_VALUE')",0.0
+"('IGRE', 'MEAN_VALUE')",0.0
+"('IGRE', 'MEASURE_COUNTS')",0.0
+"('IGRE', 'MEDIAN_VALUE')",0.0
+"('IGRE', 'MIN_VALUE')",0.0
+"('IGRE', 'STD_VALUE')",0.0031190399170789146
+"('IMMATURE_GRANULOCYTES', 'MAX_VALUE')",0.0
+"('IMMATURE_GRANULOCYTES', 'MEAN_VALUE')",0.0
+"('IMMATURE_GRANULOCYTES', 'MEASURE_COUNTS')",0.0
+"('IMMATURE_GRANULOCYTES', 'MEDIAN_VALUE')",0.0
+"('IMMATURE_GRANULOCYTES', 'MIN_VALUE')",0.0
+"('IMMATURE_GRANULOCYTES', 'STD_VALUE')",0.0
+"('IctIdx', 'MAX_VALUE')",0.0
+"('IctIdx', 'MEAN_VALUE')",1.5566047387556366e-05
+"('IctIdx', 'MEASURE_COUNTS')",0.0
+"('IctIdx', 'MEDIAN_VALUE')",0.0
+"('IctIdx', 'MIN_VALUE')",0.0
+"('IctIdx', 'STD_VALUE')",0.0
+"('IgA', 'MAX_VALUE')",0.0
+"('IgA', 'MEAN_VALUE')",0.0
+"('IgA', 'MEASURE_COUNTS')",0.0
+"('IgA', 'MEDIAN_VALUE')",0.001378891402229842
+"('IgA', 'MIN_VALUE')",0.0
+"('IgA', 'STD_VALUE')",0.0
+"('IgG-Q', 'MAX_VALUE')",0.0
+"('IgG-Q', 'MEAN_VALUE')",0.0
+"('IgG-Q', 'MEASURE_COUNTS')",0.0
+"('IgG-Q', 'MEDIAN_VALUE')",0.0
+"('IgG-Q', 'MIN_VALUE')",0.0
+"('IgG-Q', 'STD_VALUE')",0.0
+"('Insuln', 'MAX_VALUE')",0.0
+"('Insuln', 'MEAN_VALUE')",0.0
+"('Insuln', 'MEASURE_COUNTS')",0.0
+"('Insuln', 'MEDIAN_VALUE')",0.0
+"('Insuln', 'MIN_VALUE')",0.0
+"('Insuln', 'STD_VALUE')",0.0
+"('Iron', 'MAX_VALUE')",0.0
+"('Iron', 'MEAN_VALUE')",0.0
+"('Iron', 'MEASURE_COUNTS')",0.0
+"('Iron', 'MEDIAN_VALUE')",0.0
+"('Iron', 'MIN_VALUE')",0.0
+"('Iron', 'STD_VALUE')",0.0
+"('K', 'MAX_VALUE')",0.0
+"('K', 'MEAN_VALUE')",0.0015546197583231095
+"('K', 'MEASURE_COUNTS')",0.015258131423135913
+"('K', 'MEDIAN_VALUE')",0.0011808153564157014
+"('K', 'MIN_VALUE')",0.0
+"('K', 'STD_VALUE')",0.0
+"('LA', 'MAX_VALUE')",0.0
+"('LA', 'MEAN_VALUE')",0.0
+"('LA', 'MEASURE_COUNTS')",0.0
+"('LA', 'MEDIAN_VALUE')",0.0
+"('LA', 'MIN_VALUE')",0.0
+"('LA', 'STD_VALUE')",0.0
+"('LDH', 'MAX_VALUE')",0.0
+"('LDH', 'MEAN_VALUE')",0.0
+"('LDH', 'MEASURE_COUNTS')",0.0
+"('LDH', 'MEDIAN_VALUE')",0.0
+"('LDH', 'MIN_VALUE')",0.0
+"('LDH', 'STD_VALUE')",0.0
+"('LDL-C', 'MAX_VALUE')",0.0
+"('LDL-C', 'MEAN_VALUE')",0.0
+"('LDL-C', 'MEASURE_COUNTS')",0.0
+"('LDL-C', 'MEDIAN_VALUE')",0.0
+"('LDL-C', 'MIN_VALUE')",0.0
+"('LDL-C', 'STD_VALUE')",0.0
+"('LDL/HDL_RATIO', 'MAX_VALUE')",0.0
+"('LDL/HDL_RATIO', 'MEAN_VALUE')",0.0
+"('LDL/HDL_RATIO', 'MEASURE_COUNTS')",0.0
+"('LDL/HDL_RATIO', 'MEDIAN_VALUE')",0.0
+"('LDL/HDL_RATIO', 'MIN_VALUE')",0.0
+"('LDL/HDL_RATIO', 'STD_VALUE')",0.0
+"('LEUKOREDUCED_RANDOM_PLATELETS', 'MAX_VALUE')",0.0
+"('LEUKOREDUCED_RANDOM_PLATELETS', 'MEAN_VALUE')",0.0
+"('LEUKOREDUCED_RANDOM_PLATELETS', 'MEASURE_COUNTS')",0.0
+"('LEUKOREDUCED_RANDOM_PLATELETS', 'MEDIAN_VALUE')",0.0
+"('LEUKOREDUCED_RANDOM_PLATELETS', 'MIN_VALUE')",0.0
+"('LEUKOREDUCED_RANDOM_PLATELETS', 'STD_VALUE')",0.0
+"('LH1', 'MAX_VALUE')",0.0
+"('LH1', 'MEAN_VALUE')",0.000900258277447645
+"('LH1', 'MEASURE_COUNTS')",0.0
+"('LH1', 'MEDIAN_VALUE')",0.0
+"('LH1', 'MIN_VALUE')",0.0
+"('LH1', 'STD_VALUE')",0.0
+"('LYMPA', 'MAX_VALUE')",0.0
+"('LYMPA', 'MEAN_VALUE')",0.0
+"('LYMPA', 'MEASURE_COUNTS')",0.0
+"('LYMPA', 'MEDIAN_VALUE')",0.0
+"('LYMPA', 'MIN_VALUE')",0.0
+"('LYMPA', 'STD_VALUE')",0.0
+"('LYMPAB', 'MAX_VALUE')",0.0
+"('LYMPAB', 'MEAN_VALUE')",0.0
+"('LYMPAB', 'MEASURE_COUNTS')",0.0
+"('LYMPAB', 'MEDIAN_VALUE')",0.0
+"('LYMPAB', 'MIN_VALUE')",0.0008041435261139492
+"('LYMPAB', 'STD_VALUE')",0.0
+"('LYMPM', 'MAX_VALUE')",0.0
+"('LYMPM', 'MEAN_VALUE')",0.0
+"('LYMPM', 'MEASURE_COUNTS')",0.0
+"('LYMPM', 'MEDIAN_VALUE')",0.0
+"('LYMPM', 'MIN_VALUE')",0.0
+"('LYMPM', 'STD_VALUE')",0.0
+"('LYMPRE', 'MAX_VALUE')",0.0
+"('LYMPRE', 'MEAN_VALUE')",0.0
+"('LYMPRE', 'MEASURE_COUNTS')",0.0
+"('LYMPRE', 'MEDIAN_VALUE')",0.0
+"('LYMPRE', 'MIN_VALUE')",0.0023423307753357705
+"('LYMPRE', 'STD_VALUE')",0.0
+"('LipIdx', 'MAX_VALUE')",0.0008336323158999986
+"('LipIdx', 'MEAN_VALUE')",0.0
+"('LipIdx', 'MEASURE_COUNTS')",0.0
+"('LipIdx', 'MEDIAN_VALUE')",0.0
+"('LipIdx', 'MIN_VALUE')",0.002136094616785828
+"('LipIdx', 'STD_VALUE')",0.0
+"('Lipase', 'MAX_VALUE')",0.0
+"('Lipase', 'MEAN_VALUE')",0.0018542753132711552
+"('Lipase', 'MEASURE_COUNTS')",0.0
+"('Lipase', 'MEDIAN_VALUE')",0.002369919491232795
+"('Lipase', 'MIN_VALUE')",0.0
+"('Lipase', 'STD_VALUE')",0.0
+"('Luc%', 'MAX_VALUE')",0.0
+"('Luc%', 'MEAN_VALUE')",0.0021558802641409814
+"('Luc%', 'MEASURE_COUNTS')",0.0
+"('Luc%', 'MEDIAN_VALUE')",0.0
+"('Luc%', 'MIN_VALUE')",0.0
+"('Luc%', 'STD_VALUE')",0.0
+"('LucAbs', 'MAX_VALUE')",0.0
+"('LucAbs', 'MEAN_VALUE')",0.0
+"('LucAbs', 'MEASURE_COUNTS')",0.0
+"('LucAbs', 'MEDIAN_VALUE')",0.0
+"('LucAbs', 'MIN_VALUE')",0.0
+"('LucAbs', 'STD_VALUE')",0.0
+"('Lym', 'MAX_VALUE')",0.0
+"('Lym', 'MEAN_VALUE')",0.0
+"('Lym', 'MEASURE_COUNTS')",0.0
+"('Lym', 'MEDIAN_VALUE')",0.0
+"('Lym', 'MIN_VALUE')",0.0
+"('Lym', 'STD_VALUE')",0.0
+"('LymAbs', 'MAX_VALUE')",0.0
+"('LymAbs', 'MEAN_VALUE')",0.0
+"('LymAbs', 'MEASURE_COUNTS')",0.0
+"('LymAbs', 'MEDIAN_VALUE')",0.0
+"('LymAbs', 'MIN_VALUE')",0.0018342606564487039
+"('LymAbs', 'STD_VALUE')",0.0
+"('MBRat', 'MAX_VALUE')",0.0
+"('MBRat', 'MEAN_VALUE')",0.0
+"('MBRat', 'MEASURE_COUNTS')",0.0
+"('MBRat', 'MEDIAN_VALUE')",0.0
+"('MBRat', 'MIN_VALUE')",0.0
+"('MBRat', 'STD_VALUE')",0.0035468197894808137
+"('MCH', 'MAX_VALUE')",0.002431880651891312
+"('MCH', 'MEAN_VALUE')",0.0
+"('MCH', 'MEASURE_COUNTS')",0.0
+"('MCH', 'MEDIAN_VALUE')",0.0
+"('MCH', 'MIN_VALUE')",0.0
+"('MCH', 'STD_VALUE')",0.0
+"('MCHC', 'MAX_VALUE')",0.0009349730137730456
+"('MCHC', 'MEAN_VALUE')",0.0
+"('MCHC', 'MEASURE_COUNTS')",0.0
+"('MCHC', 'MEDIAN_VALUE')",0.0
+"('MCHC', 'MIN_VALUE')",0.0
+"('MCHC', 'STD_VALUE')",0.0
+"('MCV', 'MAX_VALUE')",0.0
+"('MCV', 'MEAN_VALUE')",0.0
+"('MCV', 'MEASURE_COUNTS')",0.0
+"('MCV', 'MEDIAN_VALUE')",0.0
+"('MCV', 'MIN_VALUE')",0.0026179739263511173
+"('MCV', 'STD_VALUE')",0.0
+"('MDALab', 'MAX_VALUE')",0.0009728447221667869
+"('MDALab', 'MEAN_VALUE')",0.0
+"('MDALab', 'MEASURE_COUNTS')",0.0
+"('MDALab', 'MEDIAN_VALUE')",0.0
+"('MDALab', 'MIN_VALUE')",0.0
+"('MDALab', 'STD_VALUE')",0.0
+"('MDMMab', 'MAX_VALUE')",0.0
+"('MDMMab', 'MEAN_VALUE')",0.0014706584857649006
+"('MDMMab', 'MEASURE_COUNTS')",0.0
+"('MDMMab', 'MEDIAN_VALUE')",0.0
+"('MDMMab', 'MIN_VALUE')",0.0014091404379290935
+"('MDMMab', 'STD_VALUE')",0.0
+"('MDMyab', 'MAX_VALUE')",0.0
+"('MDMyab', 'MEAN_VALUE')",0.0
+"('MDMyab', 'MEASURE_COUNTS')",0.0
+"('MDMyab', 'MEDIAN_VALUE')",0.0
+"('MDMyab', 'MIN_VALUE')",0.0
+"('MDMyab', 'STD_VALUE')",0.0
+"('MONOA', 'MAX_VALUE')",0.0
+"('MONOA', 'MEAN_VALUE')",0.0008724592929615353
+"('MONOA', 'MEASURE_COUNTS')",0.0
+"('MONOA', 'MEDIAN_VALUE')",0.0
+"('MONOA', 'MIN_VALUE')",0.0
+"('MONOA', 'STD_VALUE')",0.0
+"('MONOAB', 'MAX_VALUE')",0.0
+"('MONOAB', 'MEAN_VALUE')",0.0
+"('MONOAB', 'MEASURE_COUNTS')",0.0
+"('MONOAB', 'MEDIAN_VALUE')",0.0
+"('MONOAB', 'MIN_VALUE')",0.0009988682416923612
+"('MONOAB', 'STD_VALUE')",0.0
+"('MONOM', 'MAX_VALUE')",0.0
+"('MONOM', 'MEAN_VALUE')",0.0
+"('MONOM', 'MEASURE_COUNTS')",0.0
+"('MONOM', 'MEDIAN_VALUE')",0.0
+"('MONOM', 'MIN_VALUE')",0.0
+"('MONOM', 'STD_VALUE')",0.0
+"('MONORE', 'MAX_VALUE')",0.0
+"('MONORE', 'MEAN_VALUE')",0.0
+"('MONORE', 'MEASURE_COUNTS')",0.0
+"('MONORE', 'MEDIAN_VALUE')",0.0
+"('MONORE', 'MIN_VALUE')",0.0
+"('MONORE', 'STD_VALUE')",0.0
+"('MPV', 'MAX_VALUE')",0.0
+"('MPV', 'MEAN_VALUE')",0.0
+"('MPV', 'MEASURE_COUNTS')",0.0
+"('MPV', 'MEDIAN_VALUE')",0.0
+"('MPV', 'MIN_VALUE')",0.0013535824133749975
+"('MPV', 'STD_VALUE')",0.0
+"('Meta', 'MAX_VALUE')",0.0
+"('Meta', 'MEAN_VALUE')",0.0
+"('Meta', 'MEASURE_COUNTS')",0.0
+"('Meta', 'MEDIAN_VALUE')",0.0
+"('Meta', 'MIN_VALUE')",0.0
+"('Meta', 'STD_VALUE')",0.0
+"('Mg', 'MAX_VALUE')",0.0
+"('Mg', 'MEAN_VALUE')",0.0
+"('Mg', 'MEASURE_COUNTS')",0.002051495933197038
+"('Mg', 'MEDIAN_VALUE')",0.0
+"('Mg', 'MIN_VALUE')",0.0
+"('Mg', 'STD_VALUE')",0.0
+"('MonAbs', 'MAX_VALUE')",0.0
+"('MonAbs', 'MEAN_VALUE')",0.0
+"('MonAbs', 'MEASURE_COUNTS')",0.0
+"('MonAbs', 'MEDIAN_VALUE')",0.0
+"('MonAbs', 'MIN_VALUE')",0.0
+"('MonAbs', 'STD_VALUE')",0.002370427561712356
+"('Monocy', 'MAX_VALUE')",0.0
+"('Monocy', 'MEAN_VALUE')",0.0
+"('Monocy', 'MEASURE_COUNTS')",0.0
+"('Monocy', 'MEDIAN_VALUE')",0.0
+"('Monocy', 'MIN_VALUE')",0.0
+"('Monocy', 'STD_VALUE')",0.0
+"('Myelo', 'MAX_VALUE')",0.0
+"('Myelo', 'MEAN_VALUE')",0.0017922704399217575
+"('Myelo', 'MEASURE_COUNTS')",0.0
+"('Myelo', 'MEDIAN_VALUE')",0.0
+"('Myelo', 'MIN_VALUE')",0.0
+"('Myelo', 'STD_VALUE')",0.0
+"('NEUTA', 'MAX_VALUE')",0.0
+"('NEUTA', 'MEAN_VALUE')",0.0
+"('NEUTA', 'MEASURE_COUNTS')",0.0
+"('NEUTA', 'MEDIAN_VALUE')",0.0
+"('NEUTA', 'MIN_VALUE')",0.0
+"('NEUTA', 'STD_VALUE')",0.0
+"('NEUTAB', 'MAX_VALUE')",0.0
+"('NEUTAB', 'MEAN_VALUE')",0.0
+"('NEUTAB', 'MEASURE_COUNTS')",0.0
+"('NEUTAB', 'MEDIAN_VALUE')",0.0
+"('NEUTAB', 'MIN_VALUE')",0.0
+"('NEUTAB', 'STD_VALUE')",0.0
+"('NEUTM', 'MAX_VALUE')",0.0
+"('NEUTM', 'MEAN_VALUE')",0.0
+"('NEUTM', 'MEASURE_COUNTS')",0.0
+"('NEUTM', 'MEDIAN_VALUE')",0.0
+"('NEUTM', 'MIN_VALUE')",0.0
+"('NEUTM', 'STD_VALUE')",0.0
+"('NEUTRE', 'MAX_VALUE')",0.0
+"('NEUTRE', 'MEAN_VALUE')",0.0
+"('NEUTRE', 'MEASURE_COUNTS')",0.0
+"('NEUTRE', 'MEDIAN_VALUE')",0.0
+"('NEUTRE', 'MIN_VALUE')",0.001982387598656816
+"('NEUTRE', 'STD_VALUE')",0.0
+"('NRBC', 'MAX_VALUE')",0.0
+"('NRBC', 'MEAN_VALUE')",0.0
+"('NRBC', 'MEASURE_COUNTS')",0.0
+"('NRBC', 'MEDIAN_VALUE')",0.0
+"('NRBC', 'MIN_VALUE')",0.0
+"('NRBC', 'STD_VALUE')",0.0
+"('NRBC#', 'MAX_VALUE')",0.0
+"('NRBC#', 'MEAN_VALUE')",0.0
+"('NRBC#', 'MEASURE_COUNTS')",0.0016094744869863812
+"('NRBC#', 'MEDIAN_VALUE')",0.0
+"('NRBC#', 'MIN_VALUE')",0.0
+"('NRBC#', 'STD_VALUE')",0.0
+"('NTAuto', 'MAX_VALUE')",0.0
+"('NTAuto', 'MEAN_VALUE')",0.0
+"('NTAuto', 'MEASURE_COUNTS')",0.0
+"('NTAuto', 'MEDIAN_VALUE')",0.001544752234218617
+"('NTAuto', 'MIN_VALUE')",0.0019652269883871803
+"('NTAuto', 'STD_VALUE')",0.0
+"('Na', 'MAX_VALUE')",0.0
+"('Na', 'MEAN_VALUE')",0.0
+"('Na', 'MEASURE_COUNTS')",0.0
+"('Na', 'MEDIAN_VALUE')",0.0
+"('Na', 'MIN_VALUE')",0.0
+"('Na', 'STD_VALUE')",0.0
+"('Neut', 'MAX_VALUE')",0.0021815518295541484
+"('Neut', 'MEAN_VALUE')",0.0
+"('Neut', 'MEASURE_COUNTS')",0.0
+"('Neut', 'MEDIAN_VALUE')",0.0
+"('Neut', 'MIN_VALUE')",0.0
+"('Neut', 'STD_VALUE')",0.0
+"('Nt-PTH', 'MAX_VALUE')",0.0
+"('Nt-PTH', 'MEAN_VALUE')",0.0
+"('Nt-PTH', 'MEASURE_COUNTS')",0.0
+"('Nt-PTH', 'MEDIAN_VALUE')",0.0
+"('Nt-PTH', 'MIN_VALUE')",0.0
+"('Nt-PTH', 'STD_VALUE')",0.0
+"('NtAbs', 'MAX_VALUE')",0.0
+"('NtAbs', 'MEAN_VALUE')",0.0
+"('NtAbs', 'MEASURE_COUNTS')",0.0
+"('NtAbs', 'MEDIAN_VALUE')",0.0
+"('NtAbs', 'MIN_VALUE')",0.0009371163321683719
+"('NtAbs', 'STD_VALUE')",0.012110385471413828
+"('PCV', 'MAX_VALUE')",0.0
+"('PCV', 'MEAN_VALUE')",0.0
+"('PCV', 'MEASURE_COUNTS')",0.0032223145106314785
+"('PCV', 'MEDIAN_VALUE')",0.0
+"('PCV', 'MIN_VALUE')",1.130405358140249e-06
+"('PCV', 'STD_VALUE')",0.0
+"('POCA1C', 'MAX_VALUE')",0.0
+"('POCA1C', 'MEAN_VALUE')",0.0
+"('POCA1C', 'MEASURE_COUNTS')",0.0
+"('POCA1C', 'MEDIAN_VALUE')",0.0
+"('POCA1C', 'MIN_VALUE')",0.0
+"('POCA1C', 'STD_VALUE')",0.002030404996222268
+"('PSA', 'MAX_VALUE')",0.0
+"('PSA', 'MEAN_VALUE')",0.0
+"('PSA', 'MEASURE_COUNTS')",0.0
+"('PSA', 'MEDIAN_VALUE')",0.0
+"('PSA', 'MIN_VALUE')",0.0
+"('PSA', 'STD_VALUE')",0.0
+"('PT-inr', 'MAX_VALUE')",0.0
+"('PT-inr', 'MEAN_VALUE')",0.0
+"('PT-inr', 'MEASURE_COUNTS')",0.003499183821359251
+"('PT-inr', 'MEDIAN_VALUE')",0.0
+"('PT-inr', 'MIN_VALUE')",0.0
+"('PT-inr', 'STD_VALUE')",0.0
+"('PTT-pt', 'MAX_VALUE')",0.0
+"('PTT-pt', 'MEAN_VALUE')",0.0
+"('PTT-pt', 'MEASURE_COUNTS')",0.0
+"('PTT-pt', 'MEDIAN_VALUE')",0.0
+"('PTT-pt', 'MIN_VALUE')",0.0014491931467794917
+"('PTT-pt', 'STD_VALUE')",0.0
+"('PTTCtr', 'MAX_VALUE')",0.0
+"('PTTCtr', 'MEAN_VALUE')",0.0
+"('PTTCtr', 'MEASURE_COUNTS')",0.0
+"('PTTCtr', 'MEDIAN_VALUE')",0.0
+"('PTTCtr', 'MIN_VALUE')",0.0
+"('PTTCtr', 'STD_VALUE')",0.0
+"('Pat-PT', 'MAX_VALUE')",0.0
+"('Pat-PT', 'MEAN_VALUE')",0.0
+"('Pat-PT', 'MEASURE_COUNTS')",0.0
+"('Pat-PT', 'MEDIAN_VALUE')",0.0
+"('Pat-PT', 'MIN_VALUE')",0.0013291465285737802
+"('Pat-PT', 'STD_VALUE')",0.002199157857582449
+"('Phos', 'MAX_VALUE')",0.0
+"('Phos', 'MEAN_VALUE')",0.0
+"('Phos', 'MEASURE_COUNTS')",0.0
+"('Phos', 'MEDIAN_VALUE')",0.000934546376612869
+"('Phos', 'MIN_VALUE')",0.0
+"('Phos', 'STD_VALUE')",0.0
+"('Plt-Ct', 'MAX_VALUE')",0.0
+"('Plt-Ct', 'MEAN_VALUE')",0.0
+"('Plt-Ct', 'MEASURE_COUNTS')",0.006861069474550925
+"('Plt-Ct', 'MEDIAN_VALUE')",0.0
+"('Plt-Ct', 'MIN_VALUE')",0.0
+"('Plt-Ct', 'STD_VALUE')",0.0
+"('Prolac', 'MAX_VALUE')",0.0
+"('Prolac', 'MEAN_VALUE')",0.0
+"('Prolac', 'MEASURE_COUNTS')",0.0
+"('Prolac', 'MEDIAN_VALUE')",0.0
+"('Prolac', 'MIN_VALUE')",0.0
+"('Prolac', 'STD_VALUE')",0.0
+"('QT3', 'MAX_VALUE')",0.0
+"('QT3', 'MEAN_VALUE')",0.00227562437016634
+"('QT3', 'MEASURE_COUNTS')",0.0
+"('QT3', 'MEDIAN_VALUE')",0.0
+"('QT3', 'MIN_VALUE')",0.0
+"('QT3', 'STD_VALUE')",0.0
+"('R/F', 'MAX_VALUE')",0.0
+"('R/F', 'MEAN_VALUE')",0.0
+"('R/F', 'MEASURE_COUNTS')",0.0
+"('R/F', 'MEDIAN_VALUE')",0.0
+"('R/F', 'MIN_VALUE')",0.0
+"('R/F', 'STD_VALUE')",0.0
+"('RBC', 'MAX_VALUE')",0.0
+"('RBC', 'MEAN_VALUE')",0.0
+"('RBC', 'MEASURE_COUNTS')",0.0
+"('RBC', 'MEDIAN_VALUE')",0.0
+"('RBC', 'MIN_VALUE')",0.011053220931939218
+"('RBC', 'STD_VALUE')",0.0
+"('RBCFol', 'MAX_VALUE')",0.0
+"('RBCFol', 'MEAN_VALUE')",0.0
+"('RBCFol', 'MEASURE_COUNTS')",0.0
+"('RBCFol', 'MEDIAN_VALUE')",0.0
+"('RBCFol', 'MIN_VALUE')",0.0
+"('RBCFol', 'STD_VALUE')",0.0
+"('RDW', 'MAX_VALUE')",0.0
+"('RDW', 'MEAN_VALUE')",0.0
+"('RDW', 'MEASURE_COUNTS')",0.0
+"('RDW', 'MEDIAN_VALUE')",0.0
+"('RDW', 'MIN_VALUE')",0.0
+"('RDW', 'STD_VALUE')",0.0
+"('RDW-SD', 'MAX_VALUE')",0.0
+"('RDW-SD', 'MEAN_VALUE')",0.0
+"('RDW-SD', 'MEASURE_COUNTS')",0.0
+"('RDW-SD', 'MEDIAN_VALUE')",0.0
+"('RDW-SD', 'MIN_VALUE')",0.0
+"('RDW-SD', 'STD_VALUE')",0.0
+"('RDWSD', 'MAX_VALUE')",0.0
+"('RDWSD', 'MEAN_VALUE')",0.0014944741699393495
+"('RDWSD', 'MEASURE_COUNTS')",0.0
+"('RDWSD', 'MEDIAN_VALUE')",0.003135734637035244
+"('RDWSD', 'MIN_VALUE')",0.005753871125642194
+"('RDWSD', 'STD_VALUE')",0.0
+"('RetAbs', 'MAX_VALUE')",0.0
+"('RetAbs', 'MEAN_VALUE')",0.0
+"('RetAbs', 'MEASURE_COUNTS')",0.0
+"('RetAbs', 'MEDIAN_VALUE')",0.0
+"('RetAbs', 'MIN_VALUE')",0.0
+"('RetAbs', 'STD_VALUE')",0.0
+"('RetiCt', 'MAX_VALUE')",0.003612783401417427
+"('RetiCt', 'MEAN_VALUE')",0.0
+"('RetiCt', 'MEASURE_COUNTS')",0.0017486151083843107
+"('RetiCt', 'MEDIAN_VALUE')",0.0
+"('RetiCt', 'MIN_VALUE')",0.0
+"('RetiCt', 'STD_VALUE')",0.0
+"('SGOT', 'MAX_VALUE')",0.0
+"('SGOT', 'MEAN_VALUE')",0.00227575467353495
+"('SGOT', 'MEASURE_COUNTS')",0.0
+"('SGOT', 'MEDIAN_VALUE')",0.0
+"('SGOT', 'MIN_VALUE')",0.0
+"('SGOT', 'STD_VALUE')",0.0
+"('SGPT', 'MAX_VALUE')",0.001752711771461503
+"('SGPT', 'MEAN_VALUE')",0.0
+"('SGPT', 'MEASURE_COUNTS')",0.0
+"('SGPT', 'MEDIAN_VALUE')",0.0
+"('SGPT', 'MIN_VALUE')",0.0
+"('SGPT', 'STD_VALUE')",0.00030194212790333016
+"('SQUAMOUS_EPI_CELLS', 'MAX_VALUE')",0.0
+"('SQUAMOUS_EPI_CELLS', 'MEAN_VALUE')",0.0
+"('SQUAMOUS_EPI_CELLS', 'MEASURE_COUNTS')",0.0
+"('SQUAMOUS_EPI_CELLS', 'MEDIAN_VALUE')",0.0012033602913873985
+"('SQUAMOUS_EPI_CELLS', 'MIN_VALUE')",0.0
+"('SQUAMOUS_EPI_CELLS', 'STD_VALUE')",0.0
+"('SU-Pro', 'MAX_VALUE')",0.0
+"('SU-Pro', 'MEAN_VALUE')",0.0
+"('SU-Pro', 'MEASURE_COUNTS')",0.0
+"('SU-Pro', 'MEDIAN_VALUE')",0.0
+"('SU-Pro', 'MIN_VALUE')",0.0012024029669571545
+"('SU-Pro', 'STD_VALUE')",0.0
+"('SUA/C', 'MAX_VALUE')",0.0011190670895471547
+"('SUA/C', 'MEAN_VALUE')",0.0
+"('SUA/C', 'MEASURE_COUNTS')",0.0
+"('SUA/C', 'MEDIAN_VALUE')",0.0
+"('SUA/C', 'MIN_VALUE')",0.0
+"('SUA/C', 'STD_VALUE')",0.0
+"('SUCrea', 'MAX_VALUE')",0.0
+"('SUCrea', 'MEAN_VALUE')",0.0
+"('SUCrea', 'MEASURE_COUNTS')",0.0
+"('SUCrea', 'MEDIAN_VALUE')",0.0
+"('SUCrea', 'MIN_VALUE')",0.0
+"('SUCrea', 'STD_VALUE')",0.0010508375577091568
+"('SedRat', 'MAX_VALUE')",0.0010373085957396614
+"('SedRat', 'MEAN_VALUE')",0.0
+"('SedRat', 'MEASURE_COUNTS')",0.0
+"('SedRat', 'MEDIAN_VALUE')",0.0
+"('SedRat', 'MIN_VALUE')",0.0
+"('SedRat', 'STD_VALUE')",0.0
+"('SerFol', 'MAX_VALUE')",0.0
+"('SerFol', 'MEAN_VALUE')",0.0
+"('SerFol', 'MEASURE_COUNTS')",0.0
+"('SerFol', 'MEDIAN_VALUE')",0.0
+"('SerFol', 'MIN_VALUE')",0.0
+"('SerFol', 'STD_VALUE')",0.0
+"('TBil', 'MAX_VALUE')",0.0
+"('TBil', 'MEAN_VALUE')",0.0
+"('TBil', 'MEASURE_COUNTS')",0.0
+"('TBil', 'MEDIAN_VALUE')",0.0
+"('TBil', 'MIN_VALUE')",0.0004412022242495177
+"('TBil', 'STD_VALUE')",0.0
+"('TC:HDL', 'MAX_VALUE')",0.0
+"('TC:HDL', 'MEAN_VALUE')",0.0
+"('TC:HDL', 'MEASURE_COUNTS')",0.0
+"('TC:HDL', 'MEDIAN_VALUE')",1.766189238887845e-05
+"('TC:HDL', 'MIN_VALUE')",0.0
+"('TC:HDL', 'STD_VALUE')",0.0
+"('TIBC', 'MAX_VALUE')",0.0
+"('TIBC', 'MEAN_VALUE')",0.0
+"('TIBC', 'MEASURE_COUNTS')",0.0
+"('TIBC', 'MEDIAN_VALUE')",0.0032621311380128895
+"('TIBC', 'MIN_VALUE')",0.0
+"('TIBC', 'STD_VALUE')",0.0
+"('TProSe', 'MAX_VALUE')",0.0
+"('TProSe', 'MEAN_VALUE')",0.0
+"('TProSe', 'MEASURE_COUNTS')",0.0
+"('TProSe', 'MEDIAN_VALUE')",0.0
+"('TProSe', 'MIN_VALUE')",0.0
+"('TProSe', 'STD_VALUE')",0.0
+"('TProt', 'MAX_VALUE')",0.0
+"('TProt', 'MEAN_VALUE')",0.0
+"('TProt', 'MEASURE_COUNTS')",0.0
+"('TProt', 'MEDIAN_VALUE')",0.0
+"('TProt', 'MIN_VALUE')",0.0
+"('TProt', 'STD_VALUE')",0.0
+"('TRPI', 'MAX_VALUE')",0.0
+"('TRPI', 'MEAN_VALUE')",0.0
+"('TRPI', 'MEASURE_COUNTS')",0.0
+"('TRPI', 'MEDIAN_VALUE')",0.0
+"('TRPI', 'MIN_VALUE')",0.0
+"('TRPI', 'STD_VALUE')",0.0
+"('TSH', 'MAX_VALUE')",0.0011121351943836687
+"('TSH', 'MEAN_VALUE')",0.0
+"('TSH', 'MEASURE_COUNTS')",0.0
+"('TSH', 'MEDIAN_VALUE')",0.0
+"('TSH', 'MIN_VALUE')",0.0
+"('TSH', 'STD_VALUE')",0.0
+"('TT4', 'MAX_VALUE')",0.0
+"('TT4', 'MEAN_VALUE')",0.0
+"('TT4', 'MEASURE_COUNTS')",0.0
+"('TT4', 'MEDIAN_VALUE')",0.0
+"('TT4', 'MIN_VALUE')",0.0
+"('TT4', 'STD_VALUE')",0.0
+"('TU-Pro', 'MAX_VALUE')",0.0
+"('TU-Pro', 'MEAN_VALUE')",0.0
+"('TU-Pro', 'MEASURE_COUNTS')",0.0
+"('TU-Pro', 'MEDIAN_VALUE')",0.0
+"('TU-Pro', 'MIN_VALUE')",0.0
+"('TU-Pro', 'STD_VALUE')",0.0
+"('TUCrea', 'MAX_VALUE')",0.0
+"('TUCrea', 'MEAN_VALUE')",0.0
+"('TUCrea', 'MEASURE_COUNTS')",0.0
+"('TUCrea', 'MEDIAN_VALUE')",0.0
+"('TUCrea', 'MIN_VALUE')",0.0
+"('TUCrea', 'STD_VALUE')",0.0
+"('TestFr', 'MAX_VALUE')",0.0
+"('TestFr', 'MEAN_VALUE')",0.0036057930935338017
+"('TestFr', 'MEASURE_COUNTS')",0.0
+"('TestFr', 'MEDIAN_VALUE')",0.0
+"('TestFr', 'MIN_VALUE')",0.0
+"('TestFr', 'STD_VALUE')",0.0
+"('Testos', 'MAX_VALUE')",0.0
+"('Testos', 'MEAN_VALUE')",0.0
+"('Testos', 'MEASURE_COUNTS')",0.0
+"('Testos', 'MEDIAN_VALUE')",0.0
+"('Testos', 'MIN_VALUE')",0.0
+"('Testos', 'STD_VALUE')",0.0
+"('TotVl', 'MAX_VALUE')",0.0
+"('TotVl', 'MEAN_VALUE')",0.002765040121281398
+"('TotVl', 'MEASURE_COUNTS')",0.0
+"('TotVl', 'MEDIAN_VALUE')",0.0
+"('TotVl', 'MIN_VALUE')",0.0
+"('TotVl', 'STD_VALUE')",0.0
+"('Trigs', 'MAX_VALUE')",0.0
+"('Trigs', 'MEAN_VALUE')",0.0
+"('Trigs', 'MEASURE_COUNTS')",0.0
+"('Trigs', 'MEDIAN_VALUE')",0.0019714550920608997
+"('Trigs', 'MIN_VALUE')",0.0
+"('Trigs', 'STD_VALUE')",0.0
+"('TstPBy', 'MAX_VALUE')",0.0
+"('TstPBy', 'MEAN_VALUE')",0.0
+"('TstPBy', 'MEASURE_COUNTS')",0.0
+"('TstPBy', 'MEDIAN_VALUE')",0.0
+"('TstPBy', 'MIN_VALUE')",0.0
+"('TstPBy', 'STD_VALUE')",0.0
+"('UHyCst', 'MAX_VALUE')",0.0
+"('UHyCst', 'MEAN_VALUE')",0.0
+"('UHyCst', 'MEASURE_COUNTS')",0.0
+"('UHyCst', 'MEDIAN_VALUE')",0.0
+"('UHyCst', 'MIN_VALUE')",0.0
+"('UHyCst', 'STD_VALUE')",0.0
+"('UKeto', 'MAX_VALUE')",0.0
+"('UKeto', 'MEAN_VALUE')",0.0
+"('UKeto', 'MEASURE_COUNTS')",0.0
+"('UKeto', 'MEDIAN_VALUE')",0.0
+"('UKeto', 'MIN_VALUE')",0.0
+"('UKeto', 'STD_VALUE')",0.0
+"('URBC', 'MAX_VALUE')",0.0
+"('URBC', 'MEAN_VALUE')",0.0
+"('URBC', 'MEASURE_COUNTS')",0.0
+"('URBC', 'MEDIAN_VALUE')",0.0
+"('URBC', 'MIN_VALUE')",0.0
+"('URBC', 'STD_VALUE')",0.0
+"('USpGr', 'MAX_VALUE')",0.0
+"('USpGr', 'MEAN_VALUE')",0.0
+"('USpGr', 'MEASURE_COUNTS')",0.006983604371516054
+"('USpGr', 'MEDIAN_VALUE')",0.0
+"('USpGr', 'MIN_VALUE')",0.0
+"('USpGr', 'STD_VALUE')",0.0
+"('USqEpi', 'MAX_VALUE')",0.0
+"('USqEpi', 'MEAN_VALUE')",0.0
+"('USqEpi', 'MEASURE_COUNTS')",0.0
+"('USqEpi', 'MEDIAN_VALUE')",0.0
+"('USqEpi', 'MIN_VALUE')",0.0
+"('USqEpi', 'STD_VALUE')",0.0
+"('UUrob', 'MAX_VALUE')",0.0
+"('UUrob', 'MEAN_VALUE')",0.0
+"('UUrob', 'MEASURE_COUNTS')",0.0
+"('UUrob', 'MEDIAN_VALUE')",0.0
+"('UUrob', 'MIN_VALUE')",0.0
+"('UUrob', 'STD_VALUE')",0.0
+"('UWBC', 'MAX_VALUE')",0.0
+"('UWBC', 'MEAN_VALUE')",0.0
+"('UWBC', 'MEASURE_COUNTS')",0.0
+"('UWBC', 'MEDIAN_VALUE')",0.0
+"('UWBC', 'MIN_VALUE')",0.0
+"('UWBC', 'STD_VALUE')",0.0
+"('UpH', 'MAX_VALUE')",0.0
+"('UpH', 'MEAN_VALUE')",0.0
+"('UpH', 'MEASURE_COUNTS')",0.0
+"('UpH', 'MEDIAN_VALUE')",0.0
+"('UpH', 'MIN_VALUE')",0.0
+"('UpH', 'STD_VALUE')",0.005504722291402109
+"('UrPro', 'MAX_VALUE')",0.0
+"('UrPro', 'MEAN_VALUE')",0.0
+"('UrPro', 'MEASURE_COUNTS')",0.0
+"('UrPro', 'MEDIAN_VALUE')",0.0
+"('UrPro', 'MIN_VALUE')",0.0
+"('UrPro', 'STD_VALUE')",0.0
+"('UricA', 'MAX_VALUE')",0.0
+"('UricA', 'MEAN_VALUE')",0.0
+"('UricA', 'MEASURE_COUNTS')",0.0
+"('UricA', 'MEDIAN_VALUE')",0.001835758291916624
+"('UricA', 'MIN_VALUE')",0.0
+"('UricA', 'STD_VALUE')",0.0
+"('UrobUr', 'MAX_VALUE')",0.0
+"('UrobUr', 'MEAN_VALUE')",0.0
+"('UrobUr', 'MEASURE_COUNTS')",0.0
+"('UrobUr', 'MEDIAN_VALUE')",0.0
+"('UrobUr', 'MIN_VALUE')",0.0
+"('UrobUr', 'STD_VALUE')",0.0
+"('VD25', 'MAX_VALUE')",0.0
+"('VD25', 'MEAN_VALUE')",0.0
+"('VD25', 'MEASURE_COUNTS')",0.0
+"('VD25', 'MEDIAN_VALUE')",0.0
+"('VD25', 'MIN_VALUE')",0.0
+"('VD25', 'STD_VALUE')",0.0
+"('VLDL', 'MAX_VALUE')",0.0
+"('VLDL', 'MEAN_VALUE')",0.0
+"('VLDL', 'MEASURE_COUNTS')",0.0
+"('VLDL', 'MEDIAN_VALUE')",0.0
+"('VLDL', 'MIN_VALUE')",0.0
+"('VLDL', 'STD_VALUE')",0.0
+"('Vi-B12', 'MAX_VALUE')",0.0
+"('Vi-B12', 'MEAN_VALUE')",0.0
+"('Vi-B12', 'MEASURE_COUNTS')",0.0
+"('Vi-B12', 'MEDIAN_VALUE')",0.0015061916698003326
+"('Vi-B12', 'MIN_VALUE')",0.0
+"('Vi-B12', 'STD_VALUE')",0.0
+"('WBC', 'MAX_VALUE')",0.0
+"('WBC', 'MEAN_VALUE')",0.0
+"('WBC', 'MEASURE_COUNTS')",0.004355584100968261
+"('WBC', 'MEDIAN_VALUE')",0.0018747905599274977
+"('WBC', 'MIN_VALUE')",0.0
+"('WBC', 'STD_VALUE')",0.0
+"('WBCCnt', 'MAX_VALUE')",0.0
+"('WBCCnt', 'MEAN_VALUE')",0.0
+"('WBCCnt', 'MEASURE_COUNTS')",0.0
+"('WBCCnt', 'MEDIAN_VALUE')",0.0
+"('WBCCnt', 'MIN_VALUE')",0.0
+"('WBCCnt', 'STD_VALUE')",0.0
+"('WBCrt', 'MAX_VALUE')",0.0
+"('WBCrt', 'MEAN_VALUE')",0.0
+"('WBCrt', 'MEASURE_COUNTS')",0.0
+"('WBCrt', 'MEDIAN_VALUE')",0.0
+"('WBCrt', 'MIN_VALUE')",0.0
+"('WBCrt', 'STD_VALUE')",0.0
+"('eGFR', 'MAX_VALUE')",0.0
+"('eGFR', 'MEAN_VALUE')",0.0
+"('eGFR', 'MEASURE_COUNTS')",0.0
+"('eGFR', 'MEDIAN_VALUE')",0.0
+"('eGFR', 'MIN_VALUE')",0.0
+"('eGFR', 'STD_VALUE')",0.0
+"('pC02-V', 'MAX_VALUE')",0.0
+"('pC02-V', 'MEAN_VALUE')",0.0
+"('pC02-V', 'MEASURE_COUNTS')",0.0
+"('pC02-V', 'MEDIAN_VALUE')",0.0
+"('pC02-V', 'MIN_VALUE')",0.0012314170891832249
+"('pC02-V', 'STD_VALUE')",0.0
+"('pH', 'MAX_VALUE')",0.0
+"('pH', 'MEAN_VALUE')",0.0
+"('pH', 'MEASURE_COUNTS')",0.0
+"('pH', 'MEDIAN_VALUE')",0.0
+"('pH', 'MIN_VALUE')",0.0
+"('pH', 'STD_VALUE')",0.0
+"('pH-Ven', 'MAX_VALUE')",0.0
+"('pH-Ven', 'MEAN_VALUE')",0.0
+"('pH-Ven', 'MEASURE_COUNTS')",0.0
+"('pH-Ven', 'MEDIAN_VALUE')",0.0
+"('pH-Ven', 'MIN_VALUE')",0.0
+"('pH-Ven', 'STD_VALUE')",0.0
+"('pO2-V', 'MAX_VALUE')",0.0013565019682800453
+"('pO2-V', 'MEAN_VALUE')",0.0
+"('pO2-V', 'MEASURE_COUNTS')",0.0
+"('pO2-V', 'MEDIAN_VALUE')",0.0
+"('pO2-V', 'MIN_VALUE')",0.0
+"('pO2-V', 'STD_VALUE')",0.0
+"('sn', 'MAX_VALUE')",0.0
+"('sn', 'MEAN_VALUE')",0.0
+"('sn', 'MEASURE_COUNTS')",0.0
+"('sn', 'MEDIAN_VALUE')",0.0
+"('sn', 'MIN_VALUE')",0.0
+"('sn', 'STD_VALUE')",0.0
+phe_038,0.0
+phe_041,0.0
+phe_053,0.0
+phe_054,0.0
+phe_070.3,0.0
+phe_071.1,0.0
+phe_078,0.0
+phe_079,0.0
+phe_080,0.0
+phe_081,0.0
+phe_1001,0.0
+phe_1002,0.0
+phe_1005,0.0
+phe_1009,0.0
+phe_1010,0.0
+phe_1011,0.0
+phe_1013,0.0
+phe_1015,0.0
+phe_110.11,0.0
+phe_112,0.0
+phe_153.2,0.0
+phe_172.1,0.0
+phe_172.2,0.0
+phe_172.21,0.0
+phe_172.22,0.0
+phe_173,0.0
+phe_174.11,0.0
+phe_175,0.0
+phe_180.3,0.0
+phe_185,0.0
+phe_193,0.0
+phe_195.1,0.0
+phe_197,0.0
+phe_198.1,0.0
+phe_199,0.0
+phe_202.2,0.0
+phe_208,0.0
+phe_216,0.0
+phe_216.1,0.0
+phe_217.1,0.0
+phe_218.1,0.0
+phe_228.1,0.0
+phe_240,0.0
+phe_241.1,0.0
+phe_241.2,0.0
+phe_242,0.0
+phe_244.1,0.0
+phe_244.4,0.0
+phe_245,0.0
+phe_246,0.0
+phe_250,0.0
+phe_250.1,0.0
+phe_250.2,0.0
+phe_250.22,0.0
+phe_250.23,0.0
+phe_250.24,0.0
+phe_250.3,0.0
+phe_250.41,0.0
+phe_250.42,0.0
+phe_250.6,0.0
+phe_250.7,0.0
+phe_257.1,0.0
+phe_260,0.0
+phe_261.2,0.0
+phe_261.4,0.0
+phe_269,0.0
+phe_272,0.0
+phe_272.1,0.0
+phe_272.11,0.0
+phe_272.13,0.0
+phe_274.1,0.0
+phe_274.11,0.0
+phe_276.12,0.0
+phe_276.13,0.0
+phe_276.14,0.0
+phe_276.41,0.0010612786721035516
+phe_276.5,0.0
+phe_276.6,0.0
+phe_278,0.0
+phe_278.1,0.0
+phe_278.11,0.0
+phe_278.4,0.0
+phe_279.1,0.0
+phe_279.7,0.0
+phe_280.1,0.0
+phe_280.2,0.0
+phe_285,0.0
+phe_285.1,0.0
+phe_286.2,0.0
+phe_286.7,0.0
+phe_287.3,0.0
+phe_288,0.0
+phe_288.11,0.0
+phe_288.2,0.0
+phe_289.4,0.0
+phe_291.8,0.0
+phe_292.3,0.0
+phe_292.4,0.0
+phe_293.1,0.0
+phe_296,0.0
+phe_296.1,0.0
+phe_296.2,0.0
+phe_296.22,0.0
+phe_300,0.0
+phe_300.1,0.0
+phe_300.11,0.0
+phe_300.12,0.0
+phe_300.4,0.0
+phe_300.9,0.0
+phe_304,0.0
+phe_306,0.0
+phe_316,0.0
+phe_317,0.0
+phe_317.1,0.0
+phe_318,0.0
+phe_327,0.0
+phe_327.3,0.0
+phe_327.32,0.0
+phe_327.4,0.0
+phe_327.71,0.0
+phe_332,0.0
+phe_333.1,0.0
+phe_333.4,0.0
+phe_335,0.0
+phe_338.1,0.0
+phe_338.2,0.0
+phe_339,0.0
+phe_340,0.0
+phe_340.1,0.0
+phe_345,0.0
+phe_345.1,0.0
+phe_345.12,0.0
+phe_345.3,0.022458906858464165
+phe_350.1,0.0
+phe_350.2,0.0
+phe_350.3,0.027943987591456353
+phe_351,0.0
+phe_355.1,0.0
+phe_356,0.0
+phe_357,0.0
+phe_362.21,0.0
+phe_362.26,0.0
+phe_362.29,0.0
+phe_362.3,0.0
+phe_365,0.0
+phe_365.1,0.0
+phe_365.11,0.0
+phe_366,0.0
+phe_366.2,0.0
+phe_367.1,0.0
+phe_367.2,0.0
+phe_367.4,0.0
+phe_367.8,0.0
+phe_368,0.0
+phe_368.9,0.0
+phe_369.5,0.0
+phe_370.31,0.0
+phe_371.2,0.0
+phe_371.21,0.0
+phe_371.3,0.0
+phe_372,0.0
+phe_374.3,0.0
+phe_374.6,0.0
+phe_375,0.0
+phe_375.1,0.0
+phe_379.2,0.0
+phe_380.1,0.0
+phe_380.4,0.0
+phe_381.1,0.0
+phe_381.11,0.0
+phe_381.2,0.0
+phe_382,0.0
+phe_386.2,0.0
+phe_386.9,0.0
+phe_389,0.0
+phe_389.1,0.0
+phe_389.2,0.0
+phe_389.4,0.0
+phe_394.7,0.0
+phe_395.1,0.015335232222548298
+phe_395.2,0.020271904133953002
+phe_396,0.0
+phe_401.1,0.013186729855536648
+phe_401.21,0.0
+phe_401.22,0.0
+phe_401.3,0.0
+phe_402,0.0
+phe_414,0.0
+phe_415.2,0.0
+phe_416,0.0
+phe_418,0.121542739417437
+phe_425.1,0.0
+phe_426.7,0.0
+phe_426.91,0.0
+phe_427,0.0
+phe_427.11,0.0
+phe_427.21,0.0
+phe_427.22,0.0
+phe_427.3,0.0
+phe_427.5,0.0
+phe_427.6,0.0
+phe_427.7,0.0
+phe_427.8,0.0013748257690801844
+phe_427.9,0.0
+phe_428.1,0.05626068927548807
+phe_429.3,0.0
+phe_443.9,0.0
+phe_452,0.0
+phe_455,0.0
+phe_457.3,0.0
+phe_458.9,0.0
+phe_464,0.0
+phe_465,0.0035687945454846467
+phe_465.2,0.0
+phe_470,0.0
+phe_472,0.0
+phe_473,0.0
+phe_473.4,0.0
+phe_475,0.0
+phe_475.9,0.0
+phe_476,0.0011129333502714605
+phe_477,0.0
+phe_478,0.0
+phe_479,0.0
+phe_480,0.0
+phe_481,0.0
+phe_483,0.0
+phe_495,0.0
+phe_495.2,0.0
+phe_496,0.0
+phe_496.1,0.0
+phe_496.21,0.0
+phe_497,0.0
+phe_507,0.0
+phe_508,0.0
+phe_509.1,0.0
+phe_510,0.0
+phe_512.1,0.0
+phe_512.2,0.0
+phe_512.7,0.0
+phe_512.8,0.0
+phe_512.9,0.0
+phe_514,0.0
+phe_519.9,0.0
+phe_521.1,0.0
+phe_523.1,0.0
+phe_528,0.0
+phe_530.1,0.0
+phe_530.11,0.0
+phe_530.14,0.0
+phe_530.3,0.0
+phe_532,0.0
+phe_536.8,0.0
+phe_537,0.0
+phe_539,0.0
+phe_550.1,0.0
+phe_550.2,0.0
+phe_550.6,0.0
+phe_555.1,0.0
+phe_558,0.0
+phe_560.4,0.0
+phe_561,0.0
+phe_561.1,0.0
+phe_561.2,0.0
+phe_562.1,0.0
+phe_562.2,0.0
+phe_563,0.0
+phe_564,0.0
+phe_564.1,0.0
+phe_564.8,0.0
+phe_565,0.0
+phe_569,0.0
+phe_569.2,0.0
+phe_571.5,0.0
+phe_571.51,0.0
+phe_572,0.0
+phe_573,0.0
+phe_573.6,0.0
+phe_573.7,0.0
+phe_574.1,0.0
+phe_578.2,0.0
+phe_578.8,0.0
+phe_578.9,0.0
+phe_579,0.0
+phe_585.1,0.0
+phe_585.3,0.01476554677650318
+phe_585.31,0.0
+phe_585.32,0.0
+phe_585.33,0.0
+phe_586,0.0
+phe_586.2,0.0
+phe_587,0.0015666310080705063
+phe_591,0.0
+phe_593,0.0
+phe_593.2,0.0
+phe_594,0.0
+phe_594.1,0.0
+phe_595,0.0
+phe_596.5,0.0
+phe_597,0.0
+phe_598.9,0.0
+phe_599,0.0
+phe_599.2,0.0
+phe_599.3,0.0
+phe_599.4,0.0
+phe_599.5,0.0
+phe_599.9,0.0
+phe_600,0.0
+phe_605,0.0
+phe_608,0.0
+phe_610.1,0.0
+phe_611.1,0.0
+phe_611.11,0.0
+phe_611.3,0.0
+phe_613.5,0.0
+phe_613.7,0.0
+phe_613.8,0.0
+phe_614.52,0.0
+phe_618.1,0.0
+phe_619.2,0.0
+phe_619.4,0.0
+phe_624.9,0.0
+phe_625,0.0
+phe_626.11,0.0
+phe_626.12,0.0
+phe_626.13,0.0
+phe_626.2,0.0
+phe_627,0.0
+phe_627.1,0.0
+phe_627.2,0.0
+phe_627.21,0.0
+phe_627.22,0.0
+phe_627.3,0.0
+phe_628,0.0
+phe_649,0.0
+phe_655,0.0
+phe_665,0.0
+phe_681,0.0
+phe_681.1,0.0
+phe_681.3,0.0
+phe_681.5,0.0
+phe_681.7,0.0
+phe_686,0.0
+phe_686.1,0.0
+phe_687.1,0.0
+phe_687.2,0.0
+phe_687.4,0.0
+phe_689,0.0
+phe_690.1,0.0
+phe_694.2,0.0
+phe_695.3,0.0
+phe_695.42,0.0
+phe_696.41,0.0
+phe_698,0.0
+phe_700,0.0
+phe_701,0.0
+phe_701.2,0.0
+phe_702.1,0.0
+phe_702.2,0.0
+phe_703,0.0
+phe_704.1,0.0
+phe_704.8,0.0
+phe_706.1,0.0
+phe_706.2,0.0
+phe_706.8,0.0
+phe_714,0.0
+phe_714.1,0.0
+phe_716.9,0.0
+phe_720,0.0
+phe_720.1,0.0
+phe_721.1,0.0
+phe_722.1,0.0
+phe_722.6,0.0
+phe_723,0.0
+phe_724,0.0
+phe_726,0.0
+phe_726.1,0.0
+phe_726.3,0.0
+phe_726.4,0.0
+phe_727.1,0.0
+phe_727.4,0.0
+phe_727.6,0.0
+phe_728.7,0.0
+phe_729,0.0
+phe_733,0.0
+phe_735,0.0
+phe_735.21,0.0
+phe_735.3,0.0
+phe_737.3,0.0
+phe_738.4,0.0
+phe_740,0.0
+phe_740.1,0.0
+phe_740.11,0.0
+phe_740.2,0.0
+phe_740.9,0.0
+phe_741,0.0
+phe_741.2,0.0
+phe_741.3,0.0
+phe_741.4,0.0
+phe_742.9,0.0
+phe_743.11,0.0
+phe_743.12,0.0
+phe_743.13,0.0
+phe_743.9,0.0
+phe_745,0.0
+phe_760,0.0
+phe_761,0.0018992057307312346
+phe_763,0.0
+phe_764,0.0
+phe_765,0.0
+phe_766,0.0
+phe_770,0.0
+phe_771.1,0.0
+phe_772.2,0.0
+phe_772.3,0.0
+phe_773,0.0
+phe_781,0.0
+phe_782.3,0.0
+phe_783,0.003030870849401985
+phe_785,0.0
+phe_788,0.0
+phe_789,0.0
+phe_790.6,0.0
+phe_792,0.0
+phe_792.1,0.0
+phe_796,0.0
+phe_798,0.0
+phe_800,0.0
+phe_800.3,0.0
+phe_801,0.0
+phe_801.1,0.0
+phe_803.2,0.0
+phe_804,0.0
+phe_805,0.0
+phe_809,0.0
+phe_819,0.0
+phe_830,0.0
+phe_835,0.0
+phe_840,0.0
+phe_840.2,0.0
+phe_840.3,0.0
+phe_841,0.0
+phe_850,0.0
+phe_858,0.0
+phe_859,0.0
+phe_871,0.0
+phe_871.2,0.0
+phe_912,0.0
+phe_915,0.0
+phe_916,0.0
+phe_938.2,0.0
+phe_939,0.0
+phe_947,0.0
+phe_949,0.0
+phe_977,0.0
+phe_979,0.0
+phe_980,0.0
+med_1001576,0.0
+med_10031,0.0
+med_1004017,0.0
+med_1005921,0.0
+med_1006317,0.0
+med_10072,0.0
+med_1009148,0.0
+med_10140,0.0
+med_10154,0.0
+med_10156,0.0
+med_1018,0.0
+med_10180,0.0
+med_10215,0.0
+med_1021616,0.0
+med_1021856,0.0
+med_1022292,0.0
+med_1022341,0.0
+med_1022506,0.0
+med_1022749,0.0
+med_1022799,0.0
+med_1022902,0.0
+med_1023414,0.0
+med_1023577,0.0
+med_1023662,0.0
+med_1024266,0.0
+med_1024413,0.0
+med_102482,0.0
+med_1024879,0.0
+med_1025176,0.0
+med_1025994,0.0
+med_1026630,0.0
+med_1027774,0.0
+med_1028434,0.0
+med_1029366,0.0
+med_1030295,0.0
+med_10324,0.0
+med_10346,0.0
+med_10355,0.0
+med_1036368,0.0
+med_1037042,0.0
+med_10379,0.0
+med_10388,0.0
+med_10391,0.0
+med_10395,0.0
+med_104416,0.0
+med_10454,0.0
+med_1046195,0.0
+med_1047355,0.0
+med_10528,0.0
+med_10565,0.0
+med_105658,0.0
+med_105694,0.0
+med_10572,0.0
+med_10579,0.0
+med_10582,0.0
+med_10600,0.0
+med_10627,0.0
+med_106467,0.0
+med_10653,0.0
+med_106573,0.0
+med_106638,0.0
+med_10676,0.0
+med_10689,0.0
+med_10737,0.0
+med_10753,0.0
+med_10759,0.0
+med_10761,0.0
+med_10763,0.0
+med_1076613,0.0
+med_10808,0.0
+med_108118,0.0
+med_10814,0.0
+med_108229,0.0
+med_10829,0.0
+med_10831,0.0
+med_10908,0.0
+med_1095522,0.0
+med_11002,0.0
+med_1101284,0.0
+med_1104258,0.0
+med_11094,0.0
+med_11118,0.0
+med_11124,0.0
+med_11153,0.0
+med_11170,0.0
+med_11246,0.0
+med_11248,0.0
+med_11251,0.0
+med_11253,0.0
+med_11256,0.0
+med_11258,0.0
+med_11262,0.0
+med_1126242,0.0
+med_11289,0.010231412324219123
+med_1133,0.0
+med_11416,0.0
+med_11417,0.0
+med_114189,0.0
+med_114194,0.0
+med_114200,0.0
+med_114202,0.0
+med_11423,0.0
+med_114477,0.0
+med_114691,0.0
+med_114979,0.0
+med_1151,0.0
+med_115264,0.0
+med_115698,0.0
+med_1191,0.06848420001675871
+med_119565,0.0
+med_1202,0.0
+med_121191,0.0
+med_1223,0.0
+med_1241571,0.0
+med_1244014,0.0
+med_125464,0.0
+med_1256,0.0
+med_125679,0.0
+med_126145,0.0
+med_126542,0.0
+med_1291,0.0
+med_1292,0.009459259793288757
+med_1292422,0.0
+med_1293136,0.0
+med_1298842,0.0
+med_1303851,0.0
+med_1307106,0.0
+med_1309250,0.0
+med_1310171,0.0
+med_1311067,0.0
+med_1311275,0.0
+med_1311569,0.0
+med_1311633,0.002484501251065734
+med_1313362,0.0
+med_1314221,0.0
+med_1314612,0.0
+med_1318501,0.0
+med_1331,0.0
+med_134409,0.0
+med_134615,0.0
+med_1347,0.0
+med_135391,0.0
+med_135447,0.0
+med_135775,0.0
+med_1358966,0.0
+med_1358977,0.0
+med_1362,0.0
+med_136411,0.0
+med_136643,0.0
+med_1370773,0.0
+med_1372694,0.0
+med_139057,0.0
+med_139462,0.0
+med_139825,0.0
+med_1399,0.0
+med_1402,0.0
+med_140587,0.0
+med_1406,0.0
+med_141626,0.0
+med_1418,0.0
+med_142006,0.0
+med_142153,0.0
+med_142407,0.0
+med_142436,0.0
+med_142438,0.0
+med_142440,0.0
+med_1426331,0.0
+med_1426598,0.0
+med_1426890,0.0
+med_1427088,0.0
+med_1427702,0.0
+med_1430715,0.0
+med_1431633,0.0
+med_1431777,0.0
+med_1483317,0.0
+med_1493477,0.0
+med_150586,0.0
+med_1514,0.0
+med_152039,0.0
+med_153570,0.0
+med_153671,0.0
+med_1539356,0.0
+med_153970,0.0
+med_153974,0.0
+med_1539837,0.0
+med_1542954,0.0
+med_1544176,0.0
+med_1544904,0.0
+med_154985,0.0
+med_154987,0.0
+med_155080,0.0
+med_155137,0.0
+med_155323,0.0
+med_1588,0.0
+med_1596,0.0
+med_1598272,0.0
+med_15996,0.0
+med_1605101,0.0
+med_16054,0.0
+med_161,0.0
+med_164,0.0
+med_167,0.0
+med_17128,0.0
+med_1767,0.0
+med_17767,0.0
+med_1779,0.0
+med_1815,0.0
+med_1827,0.0
+med_18603,0.0
+med_18631,0.0
+med_187832,0.0
+med_1886,0.0
+med_18867,0.0
+med_1894,0.0
+med_1895,0.0
+med_1897,0.0
+med_18993,0.0
+med_1901,0.0
+med_1908,0.0
+med_191831,0.0
+med_19225,0.0
+med_19478,0.0
+med_196573,0.0
+med_19666,0.0
+med_19711,0.0
+med_19737,0.0
+med_198148,0.0
+med_19831,0.0
+med_19860,0.0
+med_1992,0.0
+med_2002,0.0
+med_20063,0.0
+med_2019,0.0
+med_2028,0.0
+med_203122,0.0
+med_203185,0.0
+med_203191,0.0
+med_203204,0.0
+med_203212,0.0
+med_203214,0.0
+med_2034,0.0
+med_20352,0.0
+med_20481,0.0
+med_20493,0.0
+med_20610,0.0
+med_2101,0.0
+med_21090,0.0
+med_21212,0.0
+med_21406,0.0
+med_214182,0.0
+med_214183,0.0
+med_214199,0.0
+med_214223,0.0
+med_214342,0.0
+med_214354,0.0
+med_214442,0.0
+med_214555,0.0
+med_214900,0.0
+med_215011,0.0
+med_215020,0.0
+med_215416,0.0
+med_215827,0.0
+med_215830,0.0
+med_215839,0.0
+med_216196,0.0
+med_216562,0.0
+med_217024,0.0
+med_217174,0.0
+med_217175,0.0
+med_217519,0.0
+med_2180,0.0
+med_218080,0.0
+med_218084,0.0
+med_218180,0.0
+med_218605,0.0
+med_218615,0.0
+med_218874,0.0
+med_218876,0.0
+med_2189,0.0
+med_2193,0.0
+med_219363,0.0
+med_2194,0.0
+med_219483,0.0
+med_21949,0.0
+med_219872,0.0
+med_220348,0.0
+med_220552,0.0
+med_220573,0.0
+med_220936,0.0
+med_220992,0.0
+med_221035,0.0
+med_221124,0.0
+med_221147,0.0
+med_221183,0.0
+med_221696,0.0
+med_222931,0.0
+med_222934,0.0
+med_2231,0.0
+med_224939,0.0
+med_225218,0.0
+med_227312,0.0
+med_231049,0.0
+med_232158,0.0
+med_232540,0.0
+med_234449,0.0
+med_235355,0.0
+med_235473,0.029452182061134223
+med_2356,0.0
+med_235618,0.0
+med_235743,0.0
+med_235786,0.0
+med_2358,0.0
+med_235830,0.0
+med_236539,0.0
+med_236540,0.0
+med_23663,0.0
+med_237076,0.0
+med_237159,0.0
+med_239656,0.0
+med_239738,0.0
+med_2400,0.0
+med_2409,0.0
+med_2418,0.0
+med_242447,0.0
+med_2447,0.0
+med_24605,0.0
+med_2473,0.0
+med_24947,0.0
+med_25025,0.0
+med_25037,0.0
+med_25138,0.0
+med_25255,0.0
+med_253182,0.0
+med_253337,0.0
+med_2541,0.0
+med_25480,0.0
+med_25486,0.0
+med_2551,0.0
+med_2556,0.0
+med_25789,0.0
+med_2582,0.0
+med_2590,0.0
+med_2598,0.0
+med_2599,0.0
+med_260101,0.0
+med_261510,0.0
+med_261650,0.0
+med_26225,0.0
+med_2623,0.0
+med_2653,0.0
+med_2670,0.0
+med_267396,0.0
+med_2683,0.0
+med_2714,0.0
+med_27169,0.0
+med_27334,0.0
+med_274783,0.0
+med_274964,0.0
+med_275635,0.0
+med_275891,0.0
+med_278567,0.0
+med_2809,0.0
+med_281,0.0
+med_28200,0.0
+med_2821,0.0
+med_283562,0.0
+med_283742,0.0
+med_283810,0.0
+med_28439,0.0
+med_284637,0.0
+med_284649,0.0
+med_284664,0.0
+med_284802,0.0
+med_284838,0.0
+med_284921,0.0
+med_285065,0.0
+med_287567,0.0
+med_2878,0.0
+med_2887,0.0
+med_28889,0.0
+med_2890,0.0
+med_29046,0.0
+med_296,0.0
+med_298665,0.0
+med_300005,0.0
+med_3001,0.0
+med_3002,0.0
+med_3008,0.0
+med_30125,0.0
+med_301542,0.0
+med_30236,0.0
+med_306674,0.0
+med_313601,0.0
+med_3143,0.0
+med_31448,0.0
+med_314636,0.0
+med_31555,0.0
+med_31607,0.0
+med_321064,0.0
+med_321988,0.0
+med_322167,0.0
+med_32521,0.0
+med_3254,0.0
+med_32624,0.0
+med_3264,0.0
+med_32675,0.0
+med_327361,0.0
+med_3289,0.0
+med_32915,0.0
+med_32937,0.0
+med_32968,0.008878806774597079
+med_3322,0.0
+med_33290,0.0
+med_3355,0.0
+med_3361,0.0
+med_33738,0.0
+med_3407,0.014162558465912899
+med_341248,0.0
+med_3423,0.0
+med_3429,0.0
+med_34296,0.0
+med_34322,0.0
+med_34347,0.0
+med_3443,0.0
+med_346206,0.0
+med_346237,0.0
+med_34905,0.0
+med_3498,0.0
+med_350202,0.0
+med_3508,0.0
+med_35208,0.0
+med_352441,0.0
+med_352650,0.0
+med_352736,0.0
+med_35296,0.0
+med_353171,0.0
+med_354,0.0
+med_35629,0.0
+med_35636,0.0
+med_3567,0.0
+med_356887,0.0
+med_35780,0.0
+med_358263,0.0
+med_35827,0.0
+med_36117,0.0
+med_3616,0.0
+med_3638,0.0
+med_36387,0.0
+med_3639,0.0
+med_3640,0.0
+med_36437,0.0
+med_3648,0.0
+med_36567,0.0
+med_36676,0.0
+med_36709,0.0
+med_36726,0.0
+med_3683,0.0
+med_371,0.0018944088429296278
+med_37418,0.0
+med_376,0.0
+med_37617,0.0
+med_37798,0.0
+med_37801,0.0015429660291670518
+med_37935,0.0
+med_3827,0.0
+med_38404,0.0
+med_386035,0.0
+med_388375,0.0
+med_390001,0.0
+med_3966,0.0
+med_39786,0.0
+med_3992,0.0
+med_39993,0.0
+med_39998,0.0
+med_4018,0.0
+med_401870,0.0
+med_40254,0.0
+med_405277,0.0
+med_4053,0.0
+med_405400,0.0
+med_405633,0.0
+med_40790,0.0
+med_408081,0.0
+med_408089,0.0
+med_4083,0.0
+med_4099,0.0
+med_4100,0.0
+med_41126,0.0
+med_4124,0.0
+med_41493,0.0
+med_422183,0.0
+med_4230,0.0
+med_42316,0.0
+med_42331,0.0
+med_42347,0.0
+med_42351,0.0
+med_42372,0.0
+med_42375,0.0
+med_42386,0.0
+med_42463,0.0
+med_42658,0.0
+med_4278,0.0
+med_4293,0.0
+med_42954,0.0
+med_4301,0.0
+med_433,0.0
+med_4337,0.0
+med_435,0.0
+med_4352,0.0
+med_43611,0.0
+med_436716,0.0
+med_4419,0.0
+med_4450,0.0
+med_4452,0.0
+med_4462,0.0
+med_446282,0.0
+med_4477,0.0
+med_448,0.0
+med_4492,0.0
+med_4493,0.0
+med_4508,0.0
+med_4511,0.0
+med_4603,0.08528807008287478
+med_46041,0.0
+med_461016,0.0
+med_46241,0.0
+med_466542,0.0
+med_4719,0.0
+med_4740,0.0
+med_475968,0.0
+med_47613,6.6467437122810205e-06
+med_4815,0.0
+med_48203,0.0
+med_4821,0.0
+med_4832,0.0
+med_483980,0.0
+med_4845,0.0
+med_4850,0.0
+med_485068,0.0
+med_486826,0.0
+med_48933,0.0
+med_4917,0.0681750464974705
+med_49276,0.0
+med_495214,0.0
+med_4955,0.0
+med_49737,0.0
+med_5032,0.0
+med_5065,0.0
+med_508,0.0
+med_5093,0.0
+med_5119,0.0
+med_51272,0.0
+med_51428,0.0
+med_519,0.0
+med_52101,0.0
+med_52153,0.0
+med_52175,0.0
+med_52177,0.0
+med_5220,0.0
+med_5224,0.0
+med_52356,0.0
+med_5240,0.0
+med_52582,0.0
+med_54251,0.0
+med_5470,0.0
+med_5487,0.0
+med_5489,0.0
+med_5492,0.0
+med_5496,0.0
+med_54961,0.0
+med_54989,0.0
+med_5499,0.0
+med_54993,0.0
+med_5521,0.0021004388068105286
+med_5553,0.0
+med_5640,0.0
+med_56466,0.0
+med_5691,0.0
+med_56946,0.0
+med_5720,0.0
+med_57258,0.0
+med_5748,0.0
+med_5781,0.0
+med_5806,0.0
+med_583344,0.0
+med_5856,0.0
+med_586358,0.0
+med_5886,0.0
+med_589822,0.0
+med_59078,0.0
+med_591622,0.0
+med_5933,0.0
+med_593411,0.0
+med_594617,0.0
+med_5956,0.0
+med_596,0.0
+med_5971,0.0
+med_60207,0.0
+med_6026,0.0
+med_604359,0.0
+med_605002,0.0
+med_605420,0.0
+med_60548,0.0
+med_6057,0.0
+med_606396,0.0
+med_606790,0.0
+med_607792,0.0
+med_608231,0.0
+med_608808,0.0
+med_612,0.0
+med_6130,0.0
+med_6135,0.0
+med_61381,0.0
+med_6185,0.0
+med_620,0.0
+med_6211,0.0
+med_6218,0.0
+med_62356,0.0
+med_62372,0.0
+med_6373,0.0
+med_6375,0.0
+med_6387,0.0
+med_640062,0.0
+med_6404,0.0
+med_6406,0.0
+med_64078,0.0
+med_641,0.0
+med_643316,0.0
+med_643357,0.0
+med_643717,0.0
+med_6448,0.0
+med_6468,0.0
+med_6470,0.0
+med_6472,0.0
+med_654505,0.0
+med_6574,0.0
+med_6579,0.0
+med_658043,0.0
+med_6581,0.0
+med_6582,0.0
+med_6585,0.0
+med_662411,0.0
+med_6628,0.0
+med_6650,0.0
+med_6676,0.0
+med_6691,0.0
+med_669167,0.0
+med_669616,0.0
+med_66990,0.0
+med_67108,0.0
+med_6711,0.0
+med_6750,0.0
+med_6754,0.0
+med_6759,0.0
+med_67896,0.0
+med_6809,0.0
+med_68091,0.0
+med_6813,0.0
+med_68139,0.0
+med_68149,0.0
+med_6835,0.0
+med_6845,0.0
+med_6851,0.0
+med_6873,0.0
+med_687651,0.0
+med_6878,0.0
+med_6901,0.0
+med_6902,0.0
+med_6904,0.0
+med_69120,0.0
+med_6915,0.0026428988827003354
+med_691770,0.0
+med_6918,0.00820898554243129
+med_691893,0.0
+med_6922,0.0
+med_692732,0.0
+med_693173,0.0
+med_6932,0.0
+med_6960,0.0
+med_6972,0.0
+med_69749,0.0
+med_6980,0.0
+med_6984,0.0
+med_703,0.0
+med_704,0.0
+med_704639,0.0
+med_704806,0.0
+med_7052,0.001244304850145888
+med_70599,0.0
+med_7067,0.0
+med_711780,0.0
+med_71507,0.0
+med_71535,0.0
+med_71624,0.0
+med_71722,0.0
+med_7213,0.0
+med_72143,0.0
+med_723,0.0
+med_72302,0.0
+med_7238,0.0
+med_7242,0.0
+med_725,0.0
+med_7258,0.0
+med_726,0.0
+med_72625,0.0
+med_7299,0.0
+med_73032,0.0
+med_73056,0.0
+med_7315,0.0
+med_732276,0.0
+med_733,0.0
+med_734064,0.0
+med_73494,0.0
+med_73645,0.0
+med_7393,0.0
+med_7407,0.0
+med_7417,0.0
+med_743,0.0
+med_7439,0.0
+med_7446,0.0
+med_7454,0.0
+med_745580,0.0
+med_7456,0.0
+med_746741,0.0
+med_747212,0.0
+med_747667,0.0
+med_750149,0.0
+med_7512,0.0
+med_7514,0.0
+med_751546,0.0
+med_7531,0.0
+med_753339,0.0
+med_7597,0.0
+med_760,0.0
+med_761964,0.0
+med_7623,0.0
+med_7646,0.0
+med_767811,0.0
+med_77492,0.0
+med_77655,0.0
+med_7804,0.0
+med_7812,0.0
+med_7824,0.0
+med_789982,0.0
+med_7906,0.0
+med_7916,0.0
+med_794743,0.0
+med_797752,0.0
+med_7980,0.0
+med_798220,0.0
+med_798302,0.0
+med_798304,0.0
+med_798361,0.0
+med_7984,0.0
+med_7986,0.0
+med_8091,0.0
+med_8120,0.0
+med_813233,0.0
+med_8134,0.0
+med_8152,0.0
+med_8163,0.0
+med_816346,0.0
+med_817,0.004240345624669112
+med_817303,0.0
+med_818262,0.0
+med_8183,0.002063578256807332
+med_819,0.0
+med_81973,0.0
+med_81981,0.0
+med_81982,0.0
+med_82003,0.0
+med_82110,0.0
+med_82122,0.0
+med_828529,0.0
+med_8308,0.0
+med_831418,0.0
+med_83367,0.0
+med_8339,0.0
+med_834992,0.0
+med_835216,0.0
+med_836,0.0
+med_83818,0.0
+med_838474,0.0
+med_839,0.0
+med_84108,0.0
+med_84857,0.0
+med_84990,0.0
+med_8514,0.0
+med_8536,0.0
+med_854930,0.0
+med_85762,0.0
+med_857921,0.0
+med_8588,0.0
+med_8591,0.0
+med_86009,0.0
+med_860189,0.0
+med_8611,0.0
+med_863,0.0
+med_8638,0.0
+med_8640,0.0
+med_8681,0.0
+med_8686,0.0
+med_8691,0.0
+med_8703,0.0
+med_8704,0.0
+med_8706,0.0
+med_8727,0.0
+med_8745,0.0
+med_87636,0.0
+med_877015,0.0
+med_8782,0.0
+med_8785,0.0
+med_8787,0.0
+med_88014,0.0
+med_88249,0.0
+med_883,0.0
+med_887,0.0
+med_8872,0.0
+med_889,0.0
+med_8896,0.0
+med_89013,0.0
+med_892244,0.0
+med_8928,0.0
+med_896,0.0
+med_89821,0.0
+med_89864,0.0
+med_89905,0.0
+med_90,0.0
+med_90176,0.0
+med_90224,0.0
+med_90402,0.0
+med_91032,0.0
+med_91166,0.0
+med_9143,0.0
+med_91434,0.0
+med_91461,0.0
+med_92103,0.0
+med_92105,0.0
+med_923,0.0
+med_926,0.0
+med_927,0.0
+med_931,0.0
+med_932,0.0
+med_93263,0.0
+med_9384,0.0
+med_9524,0.0
+med_9525,0.0
+med_9601,0.0
+med_9634,0.0
+med_9641,0.0
+med_967,0.0
+med_968,0.0
+med_9785,0.0
+med_9789,0.0
+med_9793,0.0
+med_9796,0.0
+med_9853,0.0
+med_986242,0.0
+med_9863,0.0
+med_9873,0.0
+med_992023,0.0
+med_993045,0.0
+med_993117,0.0
+med_993449,0.0
+med_9947,0.0
+med_9997,0.0
+"missing_('%SAT', 'MAX_VALUE')_True",0.0
+"missing_('125DHy', 'MAX_VALUE')_True",0.0
+"missing_('25DTot', 'MAX_VALUE')_True",0.0
+"missing_('25HyD2', 'MAX_VALUE')_True",0.0
+"missing_('25HyD3', 'MAX_VALUE')_True",0.0
+"missing_('A-1Gg/', 'MAX_VALUE')_True",0.0
+"missing_('A-2Gg/', 'MAX_VALUE')_True",0.0
+"missing_('AFPTum', 'MAX_VALUE')_True",0.0
+"missing_('AN-GAP', 'MAX_VALUE')_True",0.0
+"missing_('AThyP', 'MAX_VALUE')_True",0.0
+"missing_('Alb', 'MAX_VALUE')_True",0.0
+"missing_('AlbCnc', 'MAX_VALUE')_True",0.0
+"missing_('AlbCre', 'MAX_VALUE')_True",0.0
+"missing_('Album', 'MAX_VALUE')_True",0.0
+"missing_('AlkP', 'MAX_VALUE')_True",0.0
+"missing_('Amyl', 'MAX_VALUE')_True",0.0
+"missing_('AntDNA', 'MAX_VALUE')_True",0.0
+"missing_('AtyLym', 'MAX_VALUE')_True",0.0
+"missing_('BASOA', 'MAX_VALUE')_True",0.0
+"missing_('BASOAB', 'MAX_VALUE')_True",0.0
+"missing_('BASOM', 'MAX_VALUE')_True",0.0
+"missing_('BASORE', 'MAX_VALUE')_True",0.0
+"missing_('BAbs', 'MAX_VALUE')_True",0.0
+"missing_('BEVN', 'MAX_VALUE')_True",0.0
+"missing_('BNP', 'MAX_VALUE')_True",0.01028078837127286
+"missing_('BUN', 'MAX_VALUE')_True",0.0
+"missing_('Baso', 'MAX_VALUE')_True",0.0
+"missing_('BeGlg/', 'MAX_VALUE')_True",0.0
+"missing_('C3', 'MAX_VALUE')_True",0.0
+"missing_('C4Quan', 'MAX_VALUE')_True",0.0
+"missing_('CBil', 'MAX_VALUE')_True",0.0
+"missing_('CHOL/HDL_RATIO', 'MAX_VALUE')_True",0.0
+"missing_('CKMBRe', 'MAX_VALUE')_True",0.0
+"missing_('CO2', 'MAX_VALUE')_True",0.0
+"missing_('CPK', 'MAX_VALUE')_True",0.0
+"missing_('CPKTot', 'MAX_VALUE')_True",0.0
+"missing_('CRP', 'MAX_VALUE')_True",0.0
+"missing_('Ca', 'MAX_VALUE')_True",0.0
+"missing_('CaIo', 'MAX_VALUE')_True",0.0
+"missing_('Chol', 'MAX_VALUE')_True",0.0
+"missing_('Cl', 'MAX_VALUE')_True",0.0
+"missing_('ClTime', 'MAX_VALUE')_True",0.0
+"missing_('Cort-S', 'MAX_VALUE')_True",0.0
+"missing_('CrePOC', 'MAX_VALUE')_True",0.0
+"missing_('Creat', 'MAX_VALUE')_True",0.0
+"missing_('D25OHT', 'MAX_VALUE')_True",0.002551304082929929
+"missing_('DirLDL', 'MAX_VALUE')_True",0.0
+"missing_('EOSIA', 'MAX_VALUE')_True",0.0
+"missing_('EOSIAB', 'MAX_VALUE')_True",0.0
+"missing_('EOSIM', 'MAX_VALUE')_True",0.0
+"missing_('EOSIRE', 'MAX_VALUE')_True",0.0
+"missing_('EoAbs', 'MAX_VALUE')_True",0.0
+"missing_('Eos', 'MAX_VALUE')_True",0.0
+"missing_('Estrdl', 'MAX_VALUE')_True",0.0
+"missing_('FSH1', 'MAX_VALUE')_True",0.0
+"missing_('FT4', 'MAX_VALUE')_True",0.0
+"missing_('Ferrit', 'MAX_VALUE')_True",0.0
+"missing_('GTT50g', 'MAX_VALUE')_True",0.0
+"missing_('GamGg/', 'MAX_VALUE')_True",0.0
+"missing_('GluBed', 'MAX_VALUE')_True",0.0
+"missing_('Gluc', 'MAX_VALUE')_True",0.0
+"missing_('HDL-C', 'MAX_VALUE')_True",0.0
+"missing_('Hgb', 'MAX_VALUE')_True",0.0
+"missing_('HgbA1C', 'MAX_VALUE')_True",0.0
+"missing_('Hm', 'MAX_VALUE')_True",0.0
+"missing_('HrColl', 'MAX_VALUE')_True",0.0
+"missing_('IGAB', 'MAX_VALUE')_True",0.0
+"missing_('IGRE', 'MAX_VALUE')_True",0.0
+"missing_('IMMATURE_GRANULOCYTES', 'MAX_VALUE')_True",0.0
+"missing_('IctIdx', 'MAX_VALUE')_True",0.0
+"missing_('IgA', 'MAX_VALUE')_True",0.0
+"missing_('IgG-Q', 'MAX_VALUE')_True",0.0
+"missing_('Insuln', 'MAX_VALUE')_True",0.0
+"missing_('Iron', 'MAX_VALUE')_True",0.0
+"missing_('K', 'MAX_VALUE')_True",0.0
+"missing_('LA', 'MAX_VALUE')_True",0.0
+"missing_('LDH', 'MAX_VALUE')_True",0.0
+"missing_('LDL-C', 'MAX_VALUE')_True",0.0
+"missing_('LDL/HDL_RATIO', 'MAX_VALUE')_True",0.0
+"missing_('LEUKOREDUCED_RANDOM_PLATELETS', 'MAX_VALUE')_True",0.0
+"missing_('LH1', 'MAX_VALUE')_True",0.0
+"missing_('LYMPA', 'MAX_VALUE')_True",0.0
+"missing_('LYMPAB', 'MAX_VALUE')_True",0.0
+"missing_('LYMPM', 'MAX_VALUE')_True",0.0
+"missing_('LYMPRE', 'MAX_VALUE')_True",0.0
+"missing_('LipIdx', 'MAX_VALUE')_True",0.0
+"missing_('Lipase', 'MAX_VALUE')_True",0.0
+"missing_('Luc%', 'MAX_VALUE')_True",0.010961090318783798
+"missing_('LucAbs', 'MAX_VALUE')_True",0.007574780903913803
+"missing_('Lym', 'MAX_VALUE')_True",0.0
+"missing_('LymAbs', 'MAX_VALUE')_True",0.0
+"missing_('MBRat', 'MAX_VALUE')_True",0.0
+"missing_('MCH', 'MAX_VALUE')_True",0.0
+"missing_('MCHC', 'MAX_VALUE')_True",0.0
+"missing_('MCV', 'MAX_VALUE')_True",0.0
+"missing_('MDALab', 'MAX_VALUE')_True",0.0
+"missing_('MDMMab', 'MAX_VALUE')_True",0.0
+"missing_('MDMyab', 'MAX_VALUE')_True",0.0
+"missing_('MONOA', 'MAX_VALUE')_True",0.0
+"missing_('MONOAB', 'MAX_VALUE')_True",0.0
+"missing_('MONOM', 'MAX_VALUE')_True",0.0
+"missing_('MONORE', 'MAX_VALUE')_True",0.0
+"missing_('MPV', 'MAX_VALUE')_True",0.0
+"missing_('Meta', 'MAX_VALUE')_True",0.0
+"missing_('Mg', 'MAX_VALUE')_True",0.0
+"missing_('MonAbs', 'MAX_VALUE')_True",0.0
+"missing_('Monocy', 'MAX_VALUE')_True",0.0
+"missing_('Myelo', 'MAX_VALUE')_True",0.0
+"missing_('NEUTA', 'MAX_VALUE')_True",0.0
+"missing_('NEUTAB', 'MAX_VALUE')_True",0.0
+"missing_('NEUTM', 'MAX_VALUE')_True",0.0
+"missing_('NEUTRE', 'MAX_VALUE')_True",0.0
+"missing_('NRBC', 'MAX_VALUE')_True",0.0
+"missing_('NRBC#', 'MAX_VALUE')_True",0.0
+"missing_('NTAuto', 'MAX_VALUE')_True",0.0
+"missing_('Na', 'MAX_VALUE')_True",0.0
+"missing_('Neut', 'MAX_VALUE')_True",0.0
+"missing_('Nt-PTH', 'MAX_VALUE')_True",0.0
+"missing_('NtAbs', 'MAX_VALUE')_True",0.0
+"missing_('PCV', 'MAX_VALUE')_True",0.00374357481499582
+"missing_('POCA1C', 'MAX_VALUE')_True",0.0
+"missing_('PSA', 'MAX_VALUE')_True",0.0
+"missing_('PT-inr', 'MAX_VALUE')_True",0.0
+"missing_('PTT-pt', 'MAX_VALUE')_True",0.0
+"missing_('PTTCtr', 'MAX_VALUE')_True",0.0
+"missing_('Pat-PT', 'MAX_VALUE')_True",0.0
+"missing_('Phos', 'MAX_VALUE')_True",0.0
+"missing_('Plt-Ct', 'MAX_VALUE')_True",0.0
+"missing_('Prolac', 'MAX_VALUE')_True",0.0
+"missing_('QT3', 'MAX_VALUE')_True",0.0
+"missing_('R/F', 'MAX_VALUE')_True",0.0
+"missing_('RBC', 'MAX_VALUE')_True",0.0
+"missing_('RBCFol', 'MAX_VALUE')_True",0.0
+"missing_('RDW', 'MAX_VALUE')_True",0.0
+"missing_('RDW-SD', 'MAX_VALUE')_True",0.0
+"missing_('RDWSD', 'MAX_VALUE')_True",0.0
+"missing_('RetAbs', 'MAX_VALUE')_True",0.0
+"missing_('RetiCt', 'MAX_VALUE')_True",0.0
+"missing_('SGOT', 'MAX_VALUE')_True",0.0
+"missing_('SGPT', 'MAX_VALUE')_True",0.0
+"missing_('SQUAMOUS_EPI_CELLS', 'MAX_VALUE')_True",0.0
+"missing_('SU-Pro', 'MAX_VALUE')_True",0.0
+"missing_('SUA/C', 'MAX_VALUE')_True",0.0
+"missing_('SUCrea', 'MAX_VALUE')_True",0.0
+"missing_('SedRat', 'MAX_VALUE')_True",0.0
+"missing_('SerFol', 'MAX_VALUE')_True",0.0
+"missing_('TBil', 'MAX_VALUE')_True",0.0
+"missing_('TC:HDL', 'MAX_VALUE')_True",0.0
+"missing_('TIBC', 'MAX_VALUE')_True",0.0
+"missing_('TProSe', 'MAX_VALUE')_True",0.0
+"missing_('TProt', 'MAX_VALUE')_True",0.0
+"missing_('TRPI', 'MAX_VALUE')_True",0.0
+"missing_('TSH', 'MAX_VALUE')_True",0.0
+"missing_('TT4', 'MAX_VALUE')_True",0.0
+"missing_('TU-Pro', 'MAX_VALUE')_True",0.0
+"missing_('TUCrea', 'MAX_VALUE')_True",0.0
+"missing_('TestFr', 'MAX_VALUE')_True",0.0
+"missing_('Testos', 'MAX_VALUE')_True",0.0
+"missing_('TotVl', 'MAX_VALUE')_True",0.0
+"missing_('Trigs', 'MAX_VALUE')_True",0.0
+"missing_('TstPBy', 'MAX_VALUE')_True",0.0
+"missing_('UHyCst', 'MAX_VALUE')_True",0.0
+"missing_('UKeto', 'MAX_VALUE')_True",0.0
+"missing_('URBC', 'MAX_VALUE')_True",0.0
+"missing_('USpGr', 'MAX_VALUE')_True",0.0
+"missing_('USqEpi', 'MAX_VALUE')_True",0.0
+"missing_('UUrob', 'MAX_VALUE')_True",0.0
+"missing_('UWBC', 'MAX_VALUE')_True",0.0
+"missing_('UpH', 'MAX_VALUE')_True",0.0
+"missing_('UrPro', 'MAX_VALUE')_True",0.0
+"missing_('UricA', 'MAX_VALUE')_True",0.0
+"missing_('UrobUr', 'MAX_VALUE')_True",0.0
+"missing_('VD25', 'MAX_VALUE')_True",0.0
+"missing_('VLDL', 'MAX_VALUE')_True",0.0
+"missing_('Vi-B12', 'MAX_VALUE')_True",0.0
+"missing_('WBC', 'MAX_VALUE')_True",0.0
+"missing_('WBCCnt', 'MAX_VALUE')_True",0.0
+"missing_('WBCrt', 'MAX_VALUE')_True",0.0
+"missing_('eGFR', 'MAX_VALUE')_True",0.0
+"missing_('pC02-V', 'MAX_VALUE')_True",0.0
+"missing_('pH', 'MAX_VALUE')_True",0.0
+"missing_('pH-Ven', 'MAX_VALUE')_True",0.0
+"missing_('pO2-V', 'MAX_VALUE')_True",0.0
+"missing_('sn', 'MAX_VALUE')_True",0.0
+missing_BMI_True,0.0
+missing_bp_True,0.007742245477900175
